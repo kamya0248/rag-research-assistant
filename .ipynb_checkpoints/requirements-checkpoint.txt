@@ -1,0 +1,13 @@
+gradio
+sentence-transformers
+faiss-cpu
+nltk
+transformers
+PyMuPDF
+pandas
+numpy
+bertopic
+umap-learn
+hdbscan
+scikit-learn
+langdetect

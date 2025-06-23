@@ -1,0 +1,1539 @@
+Title,Authors,Abstract,Published Date,PDF Link,Keyword
+The Governance of Physical Artificial Intelligence,"Yingbo Li, Anamaria-Beatrice Spulber, Yucong Duan","Physical artificial intelligence can prove to be one of the most important
+challenges of the artificial intelligence. The governance of physical
+artificial intelligence would define its responsible intelligent application in
+the society.",2023-04-06,http://arxiv.org/pdf/2304.02924v1,Artificial Intelligence
+Does an artificial intelligence perform market manipulation with its own discretion? -- A genetic algorithm learns in an artificial market simulation,Takanobu Mizuta,"Who should be charged with responsibility for an artificial intelligence
+performing market manipulation have been discussed. In this study, I
+constructed an artificial intelligence using a genetic algorithm that learns in
+an artificial market simulation, and investigated whether the artificial
+intelligence discovers market manipulation through learning with an artificial
+market simulation despite a builder of artificial intelligence has no intention
+of market manipulation. As a result, the artificial intelligence discovered
+market manipulation as an optimal investment strategy. This result suggests
+necessity of regulation, such as obligating builders of artificial intelligence
+to prevent artificial intelligence from performing market manipulation.",2020-05-21,http://arxiv.org/pdf/2005.10488v1,Artificial Intelligence
+Impact of Artificial Intelligence on Economic Theory,Tshilidzi Marwala,"Artificial intelligence has impacted many aspects of human life. This paper
+studies the impact of artificial intelligence on economic theory. In particular
+we study the impact of artificial intelligence on the theory of bounded
+rationality, efficient market hypothesis and prospect theory.",2015-07-01,http://arxiv.org/pdf/1509.01213v1,Artificial Intelligence
+The case for psychometric artificial general intelligence,Mark McPherson,"A short review of the literature on measurement and detection of artificial
+general intelligence is made. Proposed benchmarks and tests for artificial
+general intelligence are critically evaluated against multiple criteria. Based
+on the findings, the most promising approaches are identified and some useful
+directions for future work are proposed.",2020-12-27,http://arxiv.org/pdf/2101.02179v1,Artificial Intelligence
+Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence (1997),"Dan Geiger, Prakash Shenoy","This is the Proceedings of the Thirteenth Conference on Uncertainty in
+Artificial Intelligence, which was held in Providence, RI, August 1-3, 1997",2013-04-13,http://arxiv.org/pdf/1304.3846v1,Artificial Intelligence
+Proceedings of the Ninth Conference on Uncertainty in Artificial Intelligence (1993),"David Heckerman, E. Mamdani","This is the Proceedings of the Ninth Conference on Uncertainty in Artificial
+Intelligence, which was held in Washington, DC, July 9-11, 1993",2013-04-13,http://arxiv.org/pdf/1304.3851v1,Artificial Intelligence
+Proceedings of the Second Conference on Uncertainty in Artificial Intelligence (1986),"Laveen Kanal, John Lemmer","This is the Proceedings of the Second Conference on Uncertainty in Artificial
+Intelligence, which was held in Philadelphia, PA, August 8-10, 1986",2013-04-13,http://arxiv.org/pdf/1304.3859v1,Artificial Intelligence
+Artificial Intelligence in Humans,Michael Swan Laufer,"In this paper, I put forward that in many instances, thinking mechanisms are
+equivalent to artificial intelligence modules programmed into the human mind.",2013-10-30,http://arxiv.org/pdf/1311.0716v1,Artificial Intelligence
+AAAI FSS-18: Artificial Intelligence in Government and Public Sector Proceedings,"Frank Stein, Alun Preece, Mihai Boicu","Proceedings of the AAAI Fall Symposium on Artificial Intelligence in
+Government and Public Sector, Arlington, Virginia, USA, October 18-20, 2018",2018-10-14,http://arxiv.org/pdf/1810.06018v1,Artificial Intelligence
+"Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence","Li Weigang, Liriam Enamoto, Denise Leyi Li, Geraldo Pereira Rocha Filho","This article reviews the ""Once learning"" mechanism that was proposed 23 years
+ago and the subsequent successes of ""One-shot learning"" in image classification
+and ""You Only Look Once - YOLO"" in objective detection. Analyzing the current
+development of Artificial Intelligence (AI), the proposal is that AI should be
+clearly divided into the following categories: Artificial Human Intelligence
+(AHI), Artificial Machine Intelligence (AMI), and Artificial Biological
+Intelligence (ABI), which will also be the main directions of theory and
+application development for AI. As a watershed for the branches of AI, some
+classification standards and methods are discussed: 1) Human-oriented,
+machine-oriented, and biological-oriented AI R&D; 2) Information input
+processed by Dimensionality-up or Dimensionality-reduction; 3) The use of
+one/few or large samples for knowledge learning.",2021-04-27,http://arxiv.org/pdf/2104.13155v2,Artificial Intelligence
+A framework for understanding data science,Michael L Brodie,"The objective of this research is to provide a framework with which the data
+science community can understand, define, and develop data science as a field
+of inquiry. The framework is based on the classical reference framework
+(axiology, ontology, epistemology, methodology) used for 200 years to define
+knowledge discovery paradigms and disciplines in the humanities, sciences,
+algorithms, and now data science. I augmented it for automated problem-solving
+with (methods, technology, community). The resulting data science reference
+framework is used to define the data science knowledge discovery paradigm in
+terms of the philosophy of data science addressed in previous papers and the
+data science problem-solving paradigm, i.e., the data science method, and the
+data science problem-solving workflow, both addressed in this paper. The
+framework is a much called for unifying framework for data science as it
+contains the components required to define data science. For insights to better
+understand data science, this paper uses the framework to define the emerging,
+often enigmatic, data science problem-solving paradigm and workflow, and to
+compare them with their well-understood scientific counterparts, scientific
+problem-solving paradigm and workflow.",2024-02-14,http://arxiv.org/pdf/2403.00776v1,Data Science
+Defining Data Science,"Yangyong Zhu, Yun Xiong","Data science is gaining more and more and widespread attention, but no
+consensus viewpoint on what data science is has emerged. As a new science, its
+objects of study and scientific issues should not be covered by established
+sciences. Data in cyberspace have formed what we call datanature. In the
+present paper, data science is defined as the science of exploring datanature.",2015-01-21,http://arxiv.org/pdf/1501.05039v1,Data Science
+Data Science in Perspective,Rogerio Rossi,"Data and Science has stood out in the generation of results, whether in the
+projects of the scientific domain or business domain. CERN Project, Scientific
+Institutes, companies like Walmart, Google, Apple, among others, need data to
+present their results and make predictions in the competitive data world. Data
+and Science are words that together culminated in a globally recognized term
+called Data Science. Data Science is in its initial phase, possibly being part
+of formal sciences and also being presented as part of applied sciences,
+capable of generating value and supporting decision making. Data Science
+considers science and, consequently, the scientific method to promote decision
+making through data intelligence. In many cases, the application of the method
+(or part of it) is considered in Data Science projects in scientific domain
+(social sciences, bioinformatics, geospatial projects) or business domain
+(finance, logistic, retail), among others. In this sense, this article
+addresses the perspectives of Data Science as a multidisciplinary area,
+considering science and the scientific method, and its formal structure which
+integrate Statistics, Computer Science, and Business Science, also taking into
+account Artificial Intelligence, emphasizing Machine Learning, among others.
+The article also deals with the perspective of applied Data Science, since Data
+Science is used for generating value through scientific and business projects.
+Data Science persona is also discussed in the article, concerning the education
+of Data Science professionals and its corresponding profiles, since its
+projection changes the field of data in the world.",2022-01-15,http://arxiv.org/pdf/2201.05852v1,Data Science
+Data Science: A Comprehensive Overview,Longbing Cao,"The twenty-first century has ushered in the age of big data and data economy,
+in which data DNA, which carries important knowledge, insights and potential,
+has become an intrinsic constituent of all data-based organisms. An appropriate
+understanding of data DNA and its organisms relies on the new field of data
+science and its keystone, analytics. Although it is widely debated whether big
+data is only hype and buzz, and data science is still in a very early phase,
+significant challenges and opportunities are emerging or have been inspired by
+the research, innovation, business, profession, and education of data science.
+This paper provides a comprehensive survey and tutorial of the fundamental
+aspects of data science: the evolution from data analysis to data science, the
+data science concepts, a big picture of the era of data science, the major
+challenges and directions in data innovation, the nature of data analytics, new
+industrialization and service opportunities in the data economy, the profession
+and competency of data education, and the future of data science. This article
+is the first in the field to draw a comprehensive big picture, in addition to
+offering rich observations, lessons and thinking about data science and
+analytics.",2020-07-01,http://arxiv.org/pdf/2007.03606v1,Data Science
+Ten Research Challenge Areas in Data Science,Jeannette M. Wing,"Although data science builds on knowledge from computer science, mathematics,
+statistics, and other disciplines, data science is a unique field with many
+mysteries to unlock: challenging scientific questions and pressing questions of
+societal importance. This article starts with meta-questions about data science
+as a discipline and then elaborates on ten ideas for the basis of a research
+agenda for data science.",2020-01-27,http://arxiv.org/pdf/2002.05658v1,Data Science
+"The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large","Sumon Biswas, Mohammad Wardat, Hridesh Rajan","Increasingly larger number of software systems today are including data
+science components for descriptive, predictive, and prescriptive analytics. The
+collection of data science stages from acquisition, to cleaning/curation, to
+modeling, and so on are referred to as data science pipelines. To facilitate
+research and practice on data science pipelines, it is essential to understand
+their nature. What are the typical stages of a data science pipeline? How are
+they connected? Do the pipelines differ in the theoretical representations and
+that in the practice? Today we do not fully understand these architectural
+characteristics of data science pipelines. In this work, we present a
+three-pronged comprehensive study to answer this for the state-of-the-art, data
+science in-the-small, and data science in-the-large. Our study analyzes three
+datasets: a collection of 71 proposals for data science pipelines and related
+concepts in theory, a collection of over 105 implementations of curated data
+science pipelines from Kaggle competitions to understand data science
+in-the-small, and a collection of 21 mature data science projects from GitHub
+to understand data science in-the-large. Our study has led to three
+representations of data science pipelines that capture the essence of our
+subjects in theory, in-the-small, and in-the-large.",2021-12-02,http://arxiv.org/pdf/2112.01590v3,Data Science
+A Systematic Literature Review of Undergraduate Data Science Education Research,"Mine Dogucu, Sinem Demirci, Harry Bendekgey, Federica Zoe Ricci, Catalina M. Medina","The presence of data science has been profound in the scientific community in
+almost every discipline. An important part of the data science education
+expansion has been at the undergraduate level. We conducted a systematic
+literature review to (1) portray current evidence and knowledge gaps in
+self-proclaimed undergraduate data science education research and (2) inform
+policymakers and the data science education community about what educators may
+encounter when searching for literature using the general keyword 'data science
+education.' While open-access publications that target a broader audience of
+data science educators and include multiple examples of data science programs
+and courses are a strength, significant knowledge gaps remain. The
+undergraduate data science literature that we identified often lacks empirical
+data, research questions and reproducibility. Certain disciplines are less
+visible. We recommend that we should (1) cherish data science as an
+interdisciplinary field; (2) adopt a consistent set of keywords/terminology to
+ensure data science education literature is easily identifiable; (3) prioritize
+investments in empirical studies.",2024-03-06,http://arxiv.org/pdf/2403.03387v2,Data Science
+Proceedings of the 3rd Italian Conference on Big Data and Data Science (ITADATA2024),"Nicola Bena, Claudia Diamantini, Michela Natilli, Luigi Romano, Giovanni Stilo, Valentina Pansanella, Claudio A. Ardagna, Anna Monreale, Roberto Trasarti","Proceedings of the 3rd Italian Conference on Big Data and Data Science
+(ITADATA2024), held in Pisa, Italy, September 17-19, 2024.
+  The Italian Conference on Big Data and Data Science (ITADATA2024) is the
+annual event supported by the CINI Big Data National Laboratory and ISTI CNR
+that aims to put together Italian researchers and professionals from academia,
+industry, government, and public administration working in the field of big
+data and data science, as well as related fields (e.g., security and privacy,
+HPC, Cloud).
+  ITADATA2024 covered research on all theoretical and practical aspects of Big
+Data and data science including data governance, data processing, data
+analysis, data reporting, data protection, as well as experimental studies and
+lessons learned. In particular, ITADATA2024 focused on
+  - Data spaces
+  - Data processing life cycle
+  - Machine learning and Large Language Models
+  - Applications of big data and data science in healthcare, finance, industry
+5.0, and beyond
+  - Data science for social network analysis",2025-03-19,http://arxiv.org/pdf/2503.14937v1,Data Science
+Embracing Data Science,Adam Loy,"Statistics is running the risk of appearing irrelevant to today's
+undergraduate students. Today's undergraduate students are familiar with data
+science projects and they judge statistics against what they have seen.
+Statistics, especially at the introductory level, should take inspiration from
+data science so that the discipline is not seen as somehow lesser than data
+science. This article provides a brief overview of data science, outlines ideas
+for how introductory courses could take inspiration from data science, and
+provides a reference to materials for developing stand-alone data science
+courses.",2016-07-04,http://arxiv.org/pdf/1607.00858v1,Data Science
+Defining data science: a new field of inquiry,Michael L Brodie,"Data science is not a science. It is a research paradigm. Its power, scope,
+and scale will surpass science, our most powerful research paradigm, to enable
+knowledge discovery and change our world. We have yet to understand and define
+it, vital to realizing its potential and managing its risks. Modern data
+science is in its infancy. Emerging slowly since 1962 and rapidly since 2000,
+it is a fundamentally new field of inquiry, one of the most active, powerful,
+and rapidly evolving 21st century innovations. Due to its value, power, and
+applicability, it is emerging in over 40 disciplines, hundreds of research
+areas, and thousands of applications. Millions of data science publications
+contain myriad definitions of data science and data science problem solving.
+Due to its infancy, many definitions are independent, application specific,
+mutually incomplete, redundant, or inconsistent, hence so is data science. This
+research addresses this data science multiple definitions challenge by
+proposing the development of coherent, unified definition based on a data
+science reference framework using a data science journal for the data science
+community to achieve such a definition. This paper provides candidate
+definitions for essential data science artifacts that are required to discuss
+such a definition. They are based on the classical research paradigm concept
+consisting of a philosophy of data science, the data science problem solving
+paradigm, and the six component data science reference framework (axiology,
+ontology, epistemology, methodology, methods, technology) that is a frequently
+called for unifying framework with which to define, unify, and evolve data
+science. It presents challenges for defining data science, solution approaches,
+i.e., means for defining data science, and their requirements and benefits as
+the basis of a comprehensive solution.",2023-06-28,http://arxiv.org/pdf/2306.16177v3,Data Science
+Three Laws of Technology Rise or Fall,Jianfeng Zhan,"Newton's laws of motion perfectly explain or approximate physical phenomena
+in our everyday life. Are there any laws that explain or approximate
+technology's rise or fall? After reviewing thirteen information technologies
+that succeeded, this article concludes three laws of technology and derives
+five corollaries to explain or approximate the rise or fall of technology.
+Three laws are the laws of technology inertia, technology change force, and
+technology action and reaction. Five corollaries are the corollaries of
+measurement of technology change force, technology breakthrough, technology
+monopoly, technology openness, and technology business opportunity. I present
+how to use the laws and the corollaries to analyze an emerging technology --
+the open-source RISC-V processor. Also, I elaborate on benchmarks' role in
+applying those laws.",2022-04-07,http://arxiv.org/pdf/2204.03241v1,Technology
+A New Classification of Technologies,Mario Coccia,"This study here suggests a classification of technologies based on taxonomic
+characteristics of interaction between technologies in complex systems that is
+not a studied research field in economics of technical change. The proposed
+taxonomy here categorizes technologies in four typologies, in a broad analogy
+with the ecology: 1) technological parasitism is a relationship between two
+technologies T1 and T2 in a complex system S where one technology T1 benefits
+from the interaction with T2, whereas T2 has a negative side from interaction
+with T1; 2) technological commensalism is a relationship between two
+technologies in S where one technology benefits from the other without
+affecting it; 3) technological mutualism is a relationship in which each
+technology benefits from the activity of the other within complex systems; 4)
+technological symbiosis is a long-term interaction between two (or more)
+technologies that evolve together in complex systems. This taxonomy
+systematizes the typologies of interactive technologies within complex systems
+and predicts their evolutionary pathways that generate stepwise coevolutionary
+processes of complex systems of technology. This study here begins the process
+of generalizing, as far as possible, critical typologies of interactive
+technologies that explain the long-run evolution of technology. The theoretical
+framework developed here opens the black box of the interaction between
+technologies that affects, with different types of technologies, the
+evolutionary pathways of complex systems of technology over time and space.
+Overall, then, this new theoretical framework may be useful for bringing a new
+perspective to categorize the gradient of benefit to technologies from
+interaction with other technologies that can be a ground work for development
+of more sophisticated concepts to clarify technological and economic change in
+human society.",2017-12-11,http://arxiv.org/pdf/1712.07711v1,Technology
+Technological Parasitism,Mario Coccia,"Technological parasitism is a new theory to explain the evolution of
+technology in society. In this context, this study proposes a model to analyze
+the interaction between a host technology (system) and a parasitic technology
+(subsystem) to explain evolutionary pathways of technologies as complex
+systems. The coefficient of evolutionary growth of the model here indicates the
+typology of evolution of parasitic technology in relation to host technology:
+i.e., underdevelopment, growth and development. This approach is illustrated
+with realistic examples using empirical data of product and process
+technologies. Overall, then, the theory of technological parasitism can be
+useful for bringing a new perspective to explain and generalize the evolution
+of technology and predict which innovations are likely to evolve rapidly in
+society.",2019-01-25,http://arxiv.org/pdf/1901.09073v1,Technology
+Measurement of the evolution of technology: A new perspective,Mario Coccia,"A fundamental problem in technological studies is how to measure the
+evolution of technology. The literature has suggested several approaches to
+measuring the level of technology (or state-of-the-art) and changes in
+technology. However, the measurement of technological advances and
+technological evolution is often a complex and elusive topic in science. The
+study here starts by establishing a conceptual framework of technological
+evolution based on the theory of technological parasitism, in broad analogy
+with biology. Then, the measurement of the evolution of technology is modelled
+in terms of morphological changes within complex systems considering the
+interaction between a host technology and its subsystems of technology. The
+coefficient of evolutionary growth of the model here indicates the grade and
+type of the evolutionary route of a technology. This coefficient is quantified
+in real instances using historical data of farm tractor, freight locomotive and
+electricity generation technology in steam-powered plants and
+internal-combustion plants. Overall, then, it seems that the approach here is
+appropriate in grasping the typology of evolution of complex systems of
+technology and in predicting which technologies are likeliest to evolve
+rapidly.",2018-03-23,http://arxiv.org/pdf/1803.08698v1,Technology
+Impact of Information Technology in Cyberwars,Santhosh Pogaku,"Different types of warfare have evolved between nations and states in the
+modern era, each with its technological breakthroughs and use of cutting-edge
+technologies. With the help of the latest innovations, technologies and ideas
+emerging and contributing more to the It sector, making it more advanced and
+resulting in different technologies used for cyber warfare, information
+technology has a stronghold, power, and control over many other integrated
+automated technologies. To identify the various technologies that are primarily
+used in cyber warfare. This exploratory study used a systematic review
+technique and a theme analysis approach to examine prior works in information
+technology relevant to cyber warfare.",2023-12-19,http://arxiv.org/pdf/2401.12221v1,Technology
+Cellular automata for the spreading of technologies in socio-economic systems,"Ferenc Kun, Gergely Kocsis, Janos Farkas","We introduce an agent-based model for the spreading of technological
+developments in socio-economic systems where the technology is mainly used for
+the collaboration/interaction of agents. Agents use products of different
+technologies to collaborate with each other which induce costs proportional to
+the difference of technological levels. Additional costs arise when
+technologies of different providers are used. Agents can adopt technologies and
+providers of their interacting partners in order to reduce their costs leading
+to microscopic rearrangements of the system. Analytical calculations and
+computer simulations revealed that starting from a random configuration of
+different technological levels a complex time evolution emerges where the
+spreading of advanced technologies and the overall technological progress of
+the system are determined by the amount of advantages more advanced
+technologies provide, and by the structure of the social environment of agents.
+We show that agents tend to form clusters of identical technological level with
+a power law size distribution. When technological progress arises, the
+spreading of technologies in the system can be described by extreme order
+statistics.",2008-01-23,http://arxiv.org/pdf/0801.3672v1,Technology
+The hybrid dilemma -- do hybrid technologies play a transitionary or stationary role in transitions processes?,Amir Mirzadeh Phirouzabadi,"This research unravels the stationary or transitionary dilemma of hybrid
+technologies in transitions processes. A system dynamics technology interaction
+framework is built and simulated based on Technological Innovation System and
+Lotka-Volterra to investigate the inter-technology relationship impacts and
+modes that hybrid technologies establish with incumbent and emerging
+technologies. This is conducted for the case of conventional, hybrid and
+battery electric vehicles under various scenarios . Results reveal that, by
+acting as an exploration-hybrid solution, hybrid technologies maintain a
+transitionary role by supporting mainly the technological development side of
+emerging technology. On the contrary, by acting as an exploitation-hybrid
+solution, they hardly (or never) sustain an inhibitive role against both the
+technological and market development sides of incumbent technology. While
+hybrid technologies may play a stationary role on the market development side
+in transitions processes, simulation results show that maintaining all
+inter-technology relationship modes as business-as-usual (i.e., baseline
+scenario) but instead simultaneously strengthening the various socio-technical
+dimensions of emerging technology and destabilising the various socio-technical
+dimensions of incumbent technology (i.e., sociotechnical scenario) is a more
+promising pathway in both short term (e.g., an accelerated uptake of emerging
+technology and decline of incumbent technology) and long term (e.g., highest
+emission reduction). Findings, additionally, reinforce the existence of both
+spillover and try-harder versions of 'sailing-ship effect', which are either
+seriously doubted in the literature or partially validated using raw
+bibliometric and patents data.",2025-04-08,http://arxiv.org/pdf/2504.06018v1,Technology
+A Sociotechnical Readiness Level Framework for the Development of Advanced Nuclear Technologies,"Aditi Verma, Todd Allen","The Technology Readiness Level (TRL) scale was initially developed by NASA in
+the 1970s and is now widely used in space, nuclear, and other complex
+technology sectors in the US and beyond. The TRL scale is particularly useful
+for determining where extrapolation of untested sub-systems or features could
+produce technical risk, cause expensive redesigns, or act as a roadblock to
+technology development. In this paper, we propose the development of a
+sociotechnical readiness level (SRL), premised on the understanding that the
+successful development and eventual use of a technology requires achieving not
+only full technological readiness but also anticipating, prioritizing, and
+addressing societal concerns that may arise during the course of development of
+a technology. Failures to anticipate and address societal factors in the early
+stages of technology development have led to high-profile delays and, in some
+cases, ultimate failures of nuclear technology projects. The sociotechnical
+readiness scale, which conceptually draws on the design research and science
+and technology studies scholarship, centers on principles of equity and
+environmental justice in technology design, and emphasizes the need for social
+engagement during the process of technology development. Nowhere is such an
+approach to technology development more vital or needed than for the long-term
+management of spent nuclear fuel.",2024-03-27,http://arxiv.org/pdf/2403.18204v1,Technology
+Technological Complexity Based on Japanese Patent Data,"Rintaro Karashima, Hiroyasu Inoue","As international competition intensifies in technologies, nations need to
+identify key technologies to foster innovation. However, the identification is
+difficult because a technology is independent, therefore has complex nature.
+Here, this study aims to assess patent technological fields by applying
+Technological Complexity Index from a corporate perspective, addressing its
+underutilization in Japan despite its potential. By utilizing carefully
+processed patent data from fiscal years 1981 to 2010, we analyze the bipartite
+network which consists of 1,938 corporations and 35 or 124 technological
+fields. Our findings provide quantitative characteristics of ubiquity and
+sophistication for patent fields, the detailed technological trends that
+reflect the social context, and methodological stability for policymakers and
+researchers, contributing to targeted innovation strategies in Japan.",2025-04-16,http://arxiv.org/pdf/2504.11932v2,Technology
+"A new concept of technology with systemic-purposeful perpsective: theory, examples and empirical application",Mario Coccia,"Although definitions of technology exist to explain the patterns of
+technological innovations, there is no general definition that explain the role
+of technology for humans and other animal species in environment. The goal of
+this study is to suggest a new concept of technology with a systemic-purposeful
+perspective for technology analysis. Technology here is a complex system of
+artifact, made and_or used by living systems, that is composed of more than one
+entity or sub-system and a relationship that holds between each entity and at
+least one other entity in the system, selected considering practical, technical
+and_or economic characteristics to satisfy needs, achieve goals and_or solve
+problems of users for purposes of adaptation and_or survival in environment.
+Technology T changes current modes of cognition and action to enable makers
+and_or users to take advantage of important opportunities or to cope with
+consequential environmental threats. Technology, as a complex system, is formed
+by different elements given by incremental and radical innovations.
+Technological change generates the progress from a system T1 to T2, T3, etc.
+driven by changes of technological trajectories and technological paradigms.
+Several examples illustrate here these concepts and a simple model with a
+preliminary empirical analysis shows how to operationalize the suggested
+definition of technology. Overall, then, the role of adaptation (i.e.
+reproductive advantage) can be explained as a main driver of technology use for
+adopters to take advantage of important opportunities or to cope with
+environmental threats. This study begins the process of clarifying and
+generalizing, as far as possible, the concept of technology with a new
+perspective that it can lay a foundation for the development of more
+sophisticated concepts and theories to explain technological and economic
+change in environment.",2019-09-11,http://arxiv.org/pdf/1909.05689v1,Technology
+Autonomous Mobile Clinics: Empowering Affordable Anywhere Anytime Healthcare Access,"Shaoshan Liu, Yuzhang Huang, Leiyu Shi","We are facing a global healthcare crisis today as the healthcare cost is ever
+climbing, but with the aging population, government fiscal revenue is ever
+dropping. To create a more efficient and effective healthcare system, three
+technical challenges immediately present themselves: healthcare access,
+healthcare equity, and healthcare efficiency. An autonomous mobile clinic
+solves the healthcare access problem by bringing healthcare services to the
+patient by the order of the patient's fingertips. Nevertheless, to enable a
+universal autonomous mobile clinic network, a three-stage technical roadmap
+needs to be achieved: In stage one, we focus on solving the inequity challenge
+in the existing healthcare system by combining autonomous mobility and
+telemedicine. In stage two, we develop an AI doctor for primary care, which we
+foster from infancy to adulthood with clean healthcare data. With the AI
+doctor, we can solve the inefficiency problem. In stage three, after we have
+proven that the autonomous mobile clinic network can truly solve the target
+clinical use cases, we shall open up the platform for all medical verticals,
+thus enabling universal healthcare through this whole new system.",2022-04-11,http://arxiv.org/pdf/2204.04841v3,Healthcare
+Reliable and Resilient AI and IoT-based Personalised Healthcare Services: A Survey,"Najma Taimoor, Semeen Rehman","Recent technological and economic developments have transformed the
+healthcare sector towards more personalized and IoT-based healthcare services.
+These services are realized through control and monitoring applications that
+are typically developed using artificial intelligence/machine learning-based
+algorithms, which play a significant role in highlighting the efficiency of
+traditional healthcare systems. Current personalized healthcare services are
+dedicated to a specific environment to support technological personalization.
+However, they are unable to consider different interrelated health conditions,
+leading to inappropriate diagnoses and affecting sustainability and the
+long-term health of patients. To this end, current Healthcare 5.0 technology
+has evolved that supersede previous healthcare technologies. The goal of
+healthcare 5.0 is to achieve an autonomous healthcare service, that takes into
+account the interdependent effect of different health conditions of a patient.
+This paper conducts a comprehensive survey on personalized healthcare services.
+In particular, we first present an overview of key requirements of
+comprehensive personalized healthcare services in modern healthcare Internet of
+Things (HIoT), including the definition of personalization and an example use
+case scenario as a representative for modern HIoT. Second, we explored a
+fundamental three-layer architecture for IoT-based healthcare systems using AI
+and non-AI-based approaches, considering key requirements for CPHS followed by
+their strengths and weaknesses in the frame of personalized healthcare
+services. Third, we highlighted different security threats against each layer
+of IoT architecture along with the possible AI and non-AI-based solutions.
+Finally, we propose a methodology to develop reliable, resilient, and
+personalized healthcare services that address the identified weaknesses of
+existing approaches.",2022-08-29,http://arxiv.org/pdf/2209.05457v1,Healthcare
+Security and Privacy for Healthcare Blockchains,"Rui Zhang, Rui Xue, Ling Liu","Healthcare blockchains provide an innovative way to store healthcare
+information, execute healthcare transactions, and build trust for healthcare
+data sharing and data integration in a decentralized open healthcare network
+environment. Although the healthcare blockchain technology has attracted broad
+interests and attention in industry, government and academia, the security and
+privacy concerns remain the focus of debate when deploying blockchains for
+information sharing in the healthcare sector from business operation to
+research collaboration. This paper focuses on the security and privacy
+requirements for medical data sharing using blockchain, and provides a
+comprehensive analysis of the security and privacy risks and requirements,
+accompanied by technical solution techniques and strategies. First, we discuss
+the security and privacy requirements and attributes required for electronic
+medical data sharing by deploying the healthcare blockchain. Second, we
+categorize existing efforts into three reference blockchain usage scenarios for
+electronic medical data sharing, and discuss the technologies for implementing
+these security and privacy properties in the three categories of usage
+scenarios for healthcare blockchain, such as anonymous signatures,
+attribute-based encryption, zero-knowledge proofs, verification techniques for
+smart contract security. Finally, we discuss other potential blockchain
+application scenarios in healthcare sector. We conjecture that this survey will
+help healthcare professionals, decision makers, and healthcare service
+developers to gain technical and intuitive insights into the security and
+privacy of healthcare blockchains in terms of concepts, risks, requirements,
+development and deployment technologies and systems.",2021-06-11,http://arxiv.org/pdf/2106.06136v1,Healthcare
+"A Survey on Federated Learning for the Healthcare Metaverse: Concepts, Applications, Challenges, and Future Directions","Ali Kashif Bashir, Nancy Victor, Sweta Bhattacharya, Thien Huynh-The, Rajeswari Chengoden, Gokul Yenduri, Praveen Kumar Reddy Maddikunta, Quoc-Viet Pham, Thippa Reddy Gadekallu, Madhusanka Liyanage","Recent technological advancements have considerately improved healthcare
+systems to provide various intelligent healthcare services and improve the
+quality of life. Federated learning (FL), a new branch of artificial
+intelligence (AI), opens opportunities to deal with privacy issues in
+healthcare systems and exploit data and computing resources available at
+distributed devices. Additionally, the Metaverse, through integrating emerging
+technologies, such as AI, cloud edge computing, Internet of Things (IoT),
+blockchain, and semantic communications, has transformed many vertical domains
+in general and the healthcare sector in particular. Obviously, FL shows many
+benefits and provides new opportunities for conventional and Metaverse
+healthcare, motivating us to provide a survey on the usage of FL for Metaverse
+healthcare systems. First, we present preliminaries to IoT-based healthcare
+systems, FL in conventional healthcare, and Metaverse healthcare. The benefits
+of FL in Metaverse healthcare are then discussed, from improved privacy and
+scalability, better interoperability, better data management, and extra
+security to automation and low-latency healthcare services. Subsequently, we
+discuss several applications pertaining to FL-enabled Metaverse healthcare,
+including medical diagnosis, patient monitoring, medical education, infectious
+disease, and drug discovery. Finally, we highlight significant challenges and
+potential solutions toward the realization of FL in Metaverse healthcare.",2023-04-02,http://arxiv.org/pdf/2304.00524v2,Healthcare
+Home Healthcare Process: Challenges and Open Issues,"Selma Arbaoui, N. Cislo, N. Smith-Guerin","Home healthcare is part of the most critical research and development
+healthcare areas. The objective is to decentralize healthcare, leading to a
+shift from in-hospital care to more advanced home healthcare, while improving
+efficiency, individualisation, equity and quality of healthcare delivery and
+limiting financial resources. In this paper, we adopt a process approach to
+tackle the home healthcare domain in order to highlight the importance of
+organisational aspects in the success of an ICT-home healthcare project. Such
+projects should be supported by an automated system, called in this paper, Home
+Healthcare support system. We examine HH processes from two selected
+perspectives (complexity and dynamics) to illustrate the requirements of a HH
+support system. We advocate that satisfying these requirements is part of the
+most important challenges in the home healthcare research domain and we propose
+first track of solutions by attempting to benefit from past experiences in 3
+process research communities.",2012-06-23,http://arxiv.org/pdf/1206.5430v1,Healthcare
+Human Computer Interaction Design for Mobile Devices Based on a Smart Healthcare Architecture,"Pu Liu, Sidney Fels, Nicholas West, Matthias Görges","Smart and IoT-enabled mobile devices have the potential to enhance healthcare
+services for both patients and healthcare providers. Human computer interaction
+design is key to realizing a useful and usable connection between the users and
+these smart healthcare technologies. Appropriate design of such devices
+enhances the usability, improves effective operation in an integrated
+healthcare system, and facilitates the collaboration and information sharing
+between patients, healthcare providers, and institutions. In this paper, the
+concept of smart healthcare is introduced, including its four-layer information
+architecture of sensing, communication, data integration, and application.
+Human Computer Interaction design principles for smart healthcare mobile
+devices are outlined, based on user-centered design. These include: ensuring
+safety, providing error-resistant displays and alarms, supporting the unique
+relationship between patients and healthcare providers, distinguishing end-user
+groups, accommodating legacy devices, guaranteeing low latency, allowing for
+personalization, and ensuring patient privacy. Results are synthesized in
+design suggestions ranging from personas, scenarios, workflow, and information
+architecture, to prototyping, testing and iterative development. Finally,
+future developments in smart healthcare and Human Computer Interaction design
+for mobile health devices are outlined.",2019-02-10,http://arxiv.org/pdf/1902.03541v1,Healthcare
+Machine Learning Applications In Healthcare: The State Of Knowledge and Future Directions,"Mrinmoy Roy, Sarwar J. Minar, Porarthi Dhar, A T M Omor Faruq","Detection of easily missed hidden patterns with fast processing power makes
+machine learning (ML) indispensable to today's healthcare system. Though many
+ML applications have already been discovered and many are still under
+investigation, only a few have been adopted by current healthcare systems. As a
+result, there exists an enormous opportunity in healthcare system for ML but
+distributed information, scarcity of properly arranged and easily explainable
+documentation in related sector are major impede which are making ML
+applications difficult to healthcare professionals. This study aimed to gather
+ML applications in different areas of healthcare concisely and more effectively
+so that necessary information can be accessed immediately with relevant
+references. We divided our study into five major groups: community level work,
+risk management/ preventive care, healthcare operation management, remote care,
+and early detection. Dividing these groups into subgroups, we provided relevant
+references with description in tabular form for quick access. Our objective is
+to inform people about ML applicability in healthcare industry, reduce the
+knowledge gap of clinicians about the ML applications and motivate healthcare
+professionals towards more machine learning based healthcare system.",2023-07-26,http://arxiv.org/pdf/2307.14067v1,Healthcare
+The Appliance Pervasive of Internet of Things in Healthcare Systems,Mir Sajjad Hussain Talpur,"In fact, information systems are the foundation of new productivity sources,
+medical organizational forms, and erection of a global economy. IoT based
+healthcare systems play a significant role in ICT and have contribution in
+growth of medical information systems, which are underpinning of recent medical
+and economic development strategies. However, to take advantages of IoT, it is
+essential that medical enterprises and community should trust the IoT systems
+in terms of performance, security, privacy, reliability and
+return-on-investment, which are open challenges of current IoT systems. For
+heightening of healthcare system; tracking, tracing and monitoring of patients
+and medical objects are more essential. But due to the inadequate healthcare
+situation, medical environment, medical technologies and the unique
+requirements of some healthcare applications, the obtainable tools cannot meet
+them accurately. The tracking, tracing and monitoring of patients and
+healthcare actors activities in healthcare system are challenging research
+directions for IoT researchers. State-of-the-art IoT based healthcare system
+should be developed which ensure the safety of patients and other healthcare
+activities. With this manuscript, we elaborate the essential role of IoT in
+healthcare systems; immense prospects of Internet of things in healthcare
+systems; extensive aspect of the use of IoT is dissimilar among different
+healthcare components and finally the participation of IoT between the useful
+research and present realistic applications. IoT and few other modern
+technologies are still in underpinning stage; mainly in the healthcare system.",2013-06-17,http://arxiv.org/pdf/1306.3953v1,Healthcare
+Towards Smart Healthcare: Challenges and Opportunities in IoT and ML,"Munshi Saifuzzaman, Tajkia Nuri Ananna","The COVID-19 pandemic and other ongoing health crises have underscored the
+need for prompt healthcare services worldwide. The traditional healthcare
+system, centered around hospitals and clinics, has proven inadequate in the
+face of such challenges. Intelligent wearable devices, a key part of modern
+healthcare, leverage Internet of Things technology to collect extensive data
+related to the environment as well as psychological, behavioral, and physical
+health. However, managing the substantial data generated by these wearables and
+other IoT devices in healthcare poses a significant challenge, potentially
+impeding decision-making processes. Recent interest has grown in applying data
+analytics for extracting information, gaining insights, and making predictions.
+Additionally, machine learning, known for addressing various big data and
+networking challenges, has seen increased implementation to enhance IoT systems
+in healthcare. This chapter focuses exclusively on exploring the hurdles
+encountered when integrating ML methods into the IoT healthcare sector. It
+offers a comprehensive summary of current research challenges and potential
+opportunities, categorized into three scenarios: IoT-based, ML-based, and the
+implementation of machine learning methodologies in the IoT-based healthcare
+industry. This compilation will assist future researchers, healthcare
+professionals, and government agencies by offering valuable insights into
+recent smart healthcare advancements.",2023-12-09,http://arxiv.org/pdf/2312.05530v2,Healthcare
+Natural Language Processing for Smart Healthcare,"Binggui Zhou, Guanghua Yang, Zheng Shi, Shaodan Ma","Smart healthcare has achieved significant progress in recent years. Emerging
+artificial intelligence (AI) technologies enable various smart applications
+across various healthcare scenarios. As an essential technology powered by AI,
+natural language processing (NLP) plays a key role in smart healthcare due to
+its capability of analysing and understanding human language. In this work, we
+review existing studies that concern NLP for smart healthcare from the
+perspectives of technique and application. We first elaborate on different NLP
+approaches and the NLP pipeline for smart healthcare from the technical point
+of view. Then, in the context of smart healthcare applications employing NLP
+techniques, we introduce representative smart healthcare scenarios, including
+clinical practice, hospital management, personal care, public health, and drug
+development. We further discuss two specific medical issues, i.e., the
+coronavirus disease 2019 (COVID-19) pandemic and mental health, in which
+NLP-driven smart healthcare plays an important role. Finally, we discuss the
+limitations of current works and identify the directions for future works.",2021-10-19,http://arxiv.org/pdf/2110.15803v3,Healthcare
+Mathematical modeling for sustainability: How can it promote sustainable learning in mathematics education?,N. Karjanto,"This article reviews the current state of teaching and learning mathematical
+modeling in the context of sustainable development goals for education at the
+tertiary level. While ample research on mathematical modeling education and
+published textbooks on the topic are available, there is a lack of focus on
+mathematical modeling for sustainability. This review aims to address this gap
+by exploring the powerful intersection of mathematical modeling and
+sustainability. Mathematical modeling for sustainability connects two distinct
+realms: learning about the mathematics of sustainability and promoting
+sustainable learning in mathematics education. The former involves teaching and
+learning sustainability quantitatively, while the latter encompasses pedagogy
+that enables learners to apply quantitative knowledge and skills to everyday
+life and continue learning and improving mathematically beyond formal
+education. To demonstrate the practical application of mathematical modeling
+for sustainability, we discuss a specific textbook suitable for a pilot liberal
+arts course. We illustrate how learners can grasp mathematical concepts related
+to sustainability through simple yet mathematically diverse examples, which can
+be further developed for teaching such a course. Indeed, by filling the gap in
+the literature and providing practical resources, this review contributes to
+the advancement of mathematical modeling education in the context of
+sustainability.",2023-07-20,http://arxiv.org/pdf/2307.13663v1,Sustainability
+Robots and Social Sustainability,"Bipin Indurkhya, Barbara Sienkiewicz","Sustainability is no longer a matter of choice but is invariably linked to
+the survival of the entire ecosystem of our planet Earth. As robotics
+technology is growing at an exponential rate, it is crucial to examine its
+implications for sustainability. Our focus is on social sustainability,
+specifically analyzing the role of robotics technology in this domain by
+identifying six distinct ways robots influence social sustainability.",2024-01-07,http://arxiv.org/pdf/2401.03477v1,Sustainability
+Sustainable Banking; Evaluation of the European Business Models,"Saeed Nosratabadi, Gergo Pinter, Amir Mosavi, Sandor Semperger","Sustainable business models also offer banks competitive advantages such as
+increasing brand reputation and cost reduction. However, no framework is
+presented to evaluate the sustainability of banking business models. To bridge
+this theoretical gap, the current study using A Delphi-Analytic Hierarchy
+Process method, firstly, developed a sustainable business model to evaluate the
+sustainability of the business model of banks. In the second step, the
+sustainability performance of sixteen banks from eight European countries
+including Norway, the UK, Poland, Hungary, Germany, France, Spain, and Italy,
+assessed. The proposed business model components of this study were ranked in
+terms of their impact on achieving sustainability goals. Consequently, the
+proposed model components of this study, based on their impact on
+sustainability, are respectively value proposition, core competencies,
+financial aspects, business processes, target customers, resources, technology,
+customer interface, and partner network. The results of the comparison of the
+banks studied by each country disclosed that the sustainability of the
+Norwegian and German banks business models is higher than in other counties.
+The studied banks of Hungary and Spain came in second, the banks of the UK,
+Poland, and France ranked third, and finally, the Italian banks ranked fourth
+in the sustainability of their business models.",2020-03-18,http://arxiv.org/pdf/2003.13423v1,Sustainability
+Report on the NSF Workshop on Sustainable Computing for Sustainability (NSF WSCS 2024),"Roch Guérin, Amy McGovern, Klara Nahrstedt","This report documents the process that led to the NSF Workshop on
+""Sustainable Computing for Sustainability"" held in April 2024 at NSF in
+Alexandria, VA, and reports on its findings. The workshop's primary goals were
+to (i) advance the development of research initiatives along the themes of both
+sustainable computing and computing for sustainability, while also (ii) helping
+develop and sustain the interdisciplinary teams those initiatives would need.
+The workshop's findings are in the form of recommendations grouped in three
+categories: General recommendations that cut across both themes of sustainable
+computing and computing for sustainability, and recommendations that are
+specific to sustainable computing and computing for sustainability,
+respectively.",2024-07-08,http://arxiv.org/pdf/2407.06119v2,Sustainability
+Using Sustainability Impact Scores for Software Architecture Evaluation,"Iffat Fatima, Patricia Lago, Vasilios Andrikopoulos, Bram van der Waaij","For future regulatory compliance, organizations must assess and report on the
+state of sustainability in terms of its impacts over time. Sustainability,
+being a multidimensional concern, is complex to quantify. This complexity
+further increases with the interdependencies of the quality concerns across
+different sustainability dimensions. The research literature lacks a holistic
+way to evaluate sustainability at the software architecture level. With this
+study, our aim is to identify quality attribute (QA) trade-offs at the software
+architecture level and quantify the related sustainability impact. To this aim
+we present an improved version of the Sustainability Impact Score (SIS),
+building on our previous work. The SIS facilitates the identification and
+quantification of trade-offs in terms of their sustainability impact,
+leveraging a risk- and importance-based prioritization mechanism. To evaluate
+our approach, we apply it to an industrial case study involving a multi-model
+framework for integrated decision-making in the energy sector. Our study
+reveals that technical quality concerns have significant, often unrecognized
+impacts across sustainability dimensions. The SIS coupled with QA trade-offs
+can help practitioners make informed decisions that align with their
+sustainability goals. Early evaluations can help organizations mitigate
+sustainability risks by taking preventive actions.",2025-01-28,http://arxiv.org/pdf/2501.17004v1,Sustainability
+Sustainability in Software Product Lines: Report on Discussion Panel at SPLC 2014,"Ruzanna Chitchyan, Joost Noppen, Iris Groher","Sustainability (defined as 'the capacity to keep up') encompasses a wide set
+of aims: ranging from energy efficient software products (environmental
+sustainability), reduction of software development and maintenance costs
+(economic sustainability), to employee and end-user wellbeing (social
+sustainability). In this report we explore the role that sustainability plays
+in software product line engineering (SPL). The report is based on the
+'Sustainability in Software Product Lines' panel held at SPLC 2014.",2015-05-14,http://arxiv.org/pdf/1505.03736v1,Sustainability
+Software Sustainability: A Design Case for Achieving Sustainable Pension Services in Developing Country,"Mikhail Ola Adisa, Shola Oyedeji, Jari Porras","The need for efficient and sustainable software to improve business and
+achieve goals cannot be over-emphasized. Sustainable digital services and
+product delivery cannot be achieved without embracing sustainable software
+design practices. Despite the current research progress on software
+sustainability, most software development practitioners in developing countries
+are unclear about what constitutes software sustainability and often lack the
+proper understanding of how to implement it in their specific industry domain.
+Research efforts from software engineering focused on promoting software
+sustainability awareness in developed countries, and fewer efforts have been
+channeled to studying the same awareness in developing countries. This has
+affected the level of awareness about sustainable software design practices in
+most developing countries. This research investigates the awareness of software
+sustainability in the Nigerian pension industry and its challenges among
+practitioners. The software development practitioners were engaged and
+interviewed. We offered ways to mitigate the identified challenges and promote
+the awareness of software sustainability in the pension industry. Our findings
+further show that, with the right sustainability knowledge, the software
+practitioners in the pension industry have the potential to support their
+organization's sustainable culture and improve the efficiency of product design
+and service delivery.",2022-09-23,http://arxiv.org/pdf/2209.11351v1,Sustainability
+Artificial intelligence for Sustainable Energy: A Contextual Topic Modeling and Content Analysis,"Tahereh Saheb, Mohammad Dehghani","Parallel to the rising debates over sustainable energy and artificial
+intelligence solutions, the world is currently discussing the ethics of
+artificial intelligence and its possible negative effects on society and the
+environment. In these arguments, sustainable AI is proposed, which aims at
+advancing the pathway toward sustainability, such as sustainable energy. In
+this paper, we offered a novel contextual topic modeling combining LDA, BERT,
+and Clustering. We then combined these computational analyses with content
+analysis of related scientific publications to identify the main scholarly
+topics, sub-themes, and cross-topic themes within scientific research on
+sustainable AI in energy. Our research identified eight dominant topics
+including sustainable buildings, AI-based DSSs for urban water management,
+climate artificial intelligence, Agriculture 4, the convergence of AI with IoT,
+AI-based evaluation of renewable technologies, smart campus and engineering
+education, and AI-based optimization. We then recommended 14 potential future
+research strands based on the observed theoretical gaps. Theoretically, this
+analysis contributes to the existing literature on sustainable AI and
+sustainable energy, and practically, it intends to act as a general guide for
+energy engineers and scientists, AI scientists, and social scientists to widen
+their knowledge of sustainability in AI and energy convergence research.",2021-10-02,http://arxiv.org/pdf/2110.00828v1,Sustainability
+Clearing the Path for Software Sustainability,"Jennifer Gross, Sofia Ouhbi","The advancement of software sustainability encounters notable challenges,
+underscoring the necessity for understanding these challenges to facilitate
+significant progress and pave the way for effective solutions to advance
+software sustainability. This paper outlines key challenges identified in
+literature based on findings from a tertiary study. Challenges identified
+include: confusion regarding the definition of software sustainability,
+uncertainty about when to consider sustainability in software development, lack
+of assessment metrics and tools, narrow perspectives on sustainability in
+software systems, insufficient awareness and education, and a lack of serious
+considerations in practice. The paper aims at clarifying the confusion
+surrounding software sustainability to motivate effective solutions. The
+provided recommendations aim to give a more organized approach towards
+advancing sustainable software development, emphasizing comprehensive
+strategies, the integration of sustainability as a fundamental aspect of
+software development, actionable research directions, and the cultivation of a
+common understanding of sustainable software.",2024-05-24,http://arxiv.org/pdf/2405.15637v1,Sustainability
+Assessment of Sustainability Value and Dignified Well-Being in Inclusive Product Lifecycles,"Naz Yaldiz, Amaresh Chakrabarti","Sustainability is a concept mainly assessed by the features of a product that
+are considered as specific metrics for sustainability in an engineering
+context. However, sustainability is a comprehensive process for improvement in
+sustainable development that can be structured with the influence of
+inclusivity of empowered people. We define sustainability value, which measures
+the merit of the process to contribute to sustainable development.
+Sustainability is interrelated with the well-being and dignity of people; we
+propose a formula for dignified well-being to evaluate the benefit of dignity
+and well-being in an inclusive product lifecycle. This study uses the framework
+for assessing inclusivity and empowerment to correlate the influence of
+inclusivity of empowered people on sustainability value and dignified
+well-being. Based on the strength of the correlation, we can support the
+hypothesis that the inclusivity of empowered people can influence the
+sustainability value of the process and the dignified well-being of
+stakeholders. Due to the integration of qualitative methods in our approaches,
+we tested it with an intercoder reliability test with three coders. Results
+show high coder agreement and the generalisability of the framework.",2024-12-24,http://arxiv.org/pdf/2412.18583v2,Sustainability
+An Integrated Model for User Innovation Knowledge Based on Super-network,"Xiao Liao, Zhihong Li, Yunjiang Xi, Haibo Wang, Kenneth Zantow","Online user innovation communities are becoming a promising source of user
+innovation knowledge and creative users. With the purpose of identifying
+valuable innovation knowledge and users, this study constructs an integrated
+super-network model, i.e., User Innovation Knowledge Super-Network (UIKSN), to
+integrate fragmented knowledge, knowledge fields, users and posts in an online
+community knowledge system. Based on the UIKSN, the core innovation knowledge,
+core innovation knowledge fields, core creative users, and the knowledge
+structure of individual users were identified specifically. The findings help
+capture the innovation trends of products, popular innovations and creative
+users, and makes contributions on mining, and integrating and analyzing
+innovation knowledge in community based innovation theory.",2019-05-23,http://arxiv.org/pdf/1905.09923v1,Innovation
+A new perspective on the prediction of the innovation performance: A data driven methodology to identify innovation indicators through a comparative study of Boston's neighborhoods,"Eleni Oikonomaki, Dimitris Belivanis","In an era of knowledge-based economy, commercialized research and globalized
+competition for talent, the creation of innovation ecosystems and innovation
+networks is at the forefront of efforts of cities. In this context, public
+authorities, private organizations, and academics respond to the question of
+the most promising indicators that can predict innovation with various
+innovation scoreboards. The current paper aims at increasing the understanding
+of the existing indicators and complementing the various innovation assessment
+toolkits, using large datasets from non-traditional sources. The success of
+both top down implemented innovation districts and community-level innovation
+ecosystems is complex and has not been well examined. Yet, limited data shed
+light on the association between indicators and innovation performance at the
+neighborhood level. For this purpose, the city of Boston has been selected as a
+case study to reveal the importance of its neighborhood's different
+characteristics in achieving high innovation performance. The study uses a
+large geographically distributed dataset across Boston's 35 zip code areas,
+which contains various business, entrepreneurial-specific, socio-economic data
+and other types of data that can reveal contextual urban dimensions.
+Furthermore, in order to express the innovation performance of the zip code
+areas, new metrics are proposed connected to innovation locations. The outcomes
+of this analysis aim to introduce a 'Neighborhood Innovation Index' that will
+generate new planning models for higher innovation performance, which can be
+easily applied in other cases. By publishing this large-scale dataset of urban
+informatics, the goal is to contribute to the innovation discourse and enable a
+new theoretical framework that identifies the linkages among cities'
+socio-economic characteristics and innovation performance.",2023-04-04,http://arxiv.org/pdf/2304.06039v1,Innovation
+Modeling for the Dynamics of Human Innovative Behaviors,"Ying-Ting Lin, Xiao-Pu Han, Bing-Hong Wang","How to promote the innovative activities is an important problem for modern
+society. In this paper, combining with the evolutionary games and information
+spreading, we propose a lattice model to investigate dynamics of human
+innovative behaviors based on benefit-driven assumption. Simulations show
+several properties in agreement with peoples' daily cognition on innovative
+behaviors, such as slow diffusion of innovative behaviors, gathering of
+innovative strategy on ""innovative centers"", and quasi-localized dynamics.
+Furthermore, our model also emerges rich non-Poisson properties in the
+temporal-spacial patterns of the innovative status, including the scaling law
+in the interval time of innovation releases and the bimodal distributions on
+the spreading range of innovations, which would be universal in human
+innovative behaviors. Our model provide a basic framework on the study of the
+issue relevant to the evolution of human innovative behaviors and the promotion
+measurement of innovative activities.",2013-03-04,http://arxiv.org/pdf/1303.0631v1,Innovation
+High-Impact Innovations and Hidden Gender Disparities in Inventor-Evaluator Networks,"Tara Sowrirajan, Ryan Whalen, Brian Uzzi","We study of millions of scientific, technological, and artistic innovations
+and find that the innovation gap faced by women is far from universal. No gap
+exists for conventional innovations. Rather, the gap is pervasively rooted in
+innovations that combine ideas in unexpected ways - innovations most critical
+to scientific breakthroughs. Further, at the USPTO we find that female
+examiners reject up to 33 percent more unconventional innovations by women
+inventors than do male examiners, suggesting that gender discrimination weakly
+explains this innovation gap. Instead, new data indicate that a configuration
+of institutional practices explains the innovation gap. These practices
+compromise the expertise women examiners need to accurately assess
+unconventional innovations and then ""over-assign"" women examiners to women
+innovators, undermining women's innovations. These institutional impediments
+negatively impact innovation rates in science but have the virtue of being more
+amenable to actionable policy changes than does culturally ingrained gender
+discrimination.",2024-08-01,http://arxiv.org/pdf/2408.00905v1,Innovation
+Understanding Diffusion of Recurrent Innovations,Fuqi Lin,"The diffusion of innovations theory has been studied for years. Previous
+research efforts mainly focus on key elements, adopter categories, and the
+process of innovation diffusion. However, most of them only consider single
+innovations. With the development of modern technology, recurrent innovations
+gradually come into vogue. In order to reveal the characteristics of recurrent
+innovations, we present the first large-scale analysis of the adoption of
+recurrent innovations in the context of mobile app updates. Our analysis
+reveals the adoption behavior and new adopter categories of recurrent
+innovations as well as the features that have impact on the process of
+adoption.",2021-01-13,http://arxiv.org/pdf/2101.05094v1,Innovation
+The Ecological System of Innovation: A New Architectural Framework for a Functional Evidence-Based Platform for Science and Innovation Policy,Robert M Yawson,"Models on innovation, for the most part, do not include a comprehensive and
+end-to-end view. Most innovation policy attention seems to be focused on the
+capacity to innovate and on input factors such as R&D investment, scientific
+institutions, human resources and capital. Such inputs frequently serve as
+proxies for innovativeness and are correlated with intermediate outputs such as
+patent counts and outcomes such as GDP per capita. While this kind of analysis
+is generally indicative of innovative behaviour, it is less useful in terms of
+discriminating causality and what drives successful strategy or public policy
+interventions. This situation has led to the developing of new frameworks for
+the innovation system led by National Science and Technology Policy Centres
+across the globe. These new models of innovation are variously referred to as
+the National Innovation Ecosystem. There is, however, a fundamental question
+that needs to be answered: what elements should an innovation policy include,
+and how should such policies be implemented? This paper attempts to answer this
+question.",2021-06-24,http://arxiv.org/pdf/2106.15479v1,Innovation
+There are different shades of green: heterogeneous environmental innovations and their effects on firm performance,"Gianluca Biggi, Andrea Mina, Federico Tamagni","Using a firm-level dataset from the Spanish Technological Innovation Panel
+(2003-2016), this study explores the characteristics of environmentally
+innovative firms and quantifies the effects of pursuing different types of
+environmental innovation strategies (resource-saving, pollution-reducing, and
+regulation-driven innovations) on sales, employment, and productivity dynamics.",2023-10-12,http://arxiv.org/pdf/2310.08353v1,Innovation
+Which research in design creativity and innovation? Let us not forget the reality of companies,Bernard Yannou,"Studying design creativity and innovation from practical perspectives for
+companies requires both a good understanding of the company ecosystem and its
+inner processes contributing to delivered innovations and a rigorous design
+research methodology to provide effective design models, methods, platforms
+that are truly effective in the context of company. Working in an Industrial
+Engineering laboratory, we advocate a more systemic vision of design creativity
+and innovation in company ecosystems. We present in this paper an attempt to
+develop and make professional an innovation engineering. Our research works are
+illustrated along the different research topics of an innovation process. We
+start by a recent survey on innovation practice and organizational models led
+in 28 large companies. The lessons learned about this survey reinforce our
+belief that there is a need for a new method in agile management of radical
+innovation projects in company contexts. We currently develop, test and apply
+such a methodology named: Radical Innovation Design(RID). Its effectiveness has
+been evaluated through a large scale evaluation of the project outcomes for the
+company. Two extensions of RID have been proposed and deployed in company
+contexts: a selection procedure for innovation clusters and a value-driven
+process for airplane development projects.",2013-03-17,http://arxiv.org/pdf/1303.5061v1,Innovation
+Enterprise System Lifecycle-wide Innovation,"Sachithra Lokuge, Darshana Sedera","Enterprise Systems purport to bring innovation to organizations. Yet, no past
+studies, neither from innovation nor from ES disciplines have merged their
+knowledge to understand how ES could facilitate lifecycle-wide innovation.
+Therefore, this study forms conceptual bridge between the two disciplines. In
+this research, we seek to understand how ES could facilitate innovation across
+its lifecycle phases. We associate classifications of innovation such as
+radical vs. incremental, administrative vs. technical innovation with the three
+phases of ES lifecycle. We introduce Continuous Restrained Innovation (CRI) as
+a new type of innovation specific to ES, considering restraints of technology,
+business processes and organization. Our empirical data collection at the
+implementation phase, using data from both the client and implementation
+partner, shows preliminary evidence of CRI. In addition, we state that both
+parties consider the implementation of ES as a radical innovation yet, are less
+interest in seeking further innovations through the system.",2020-06-18,http://arxiv.org/pdf/2006.10237v1,Innovation
+Data-Driven Innovation: What Is It,Jianxi Luo,"The future of innovation processes is anticipated to be more data-driven and
+empowered by the ubiquitous digitalization, increasing data accessibility and
+rapid advances in machine learning, artificial intelligence, and computing
+technologies. While the data-driven innovation (DDI) paradigm is emerging, it
+has yet been formally defined and theorized and often confused with several
+other data-related phenomena. This paper defines and crystalizes ""data-driven
+innovation"" as a formal innovation process paradigm, dissects its value
+creation, and distinguishes it from data-driven optimization (DDO), data-based
+innovation (DBI), and the traditional innovation processes that purely rely on
+human intelligence. With real-world examples and theoretical framing, I
+elucidate what DDI entails and how it addresses uncertainty and enhance
+creativity in the innovation process and present a process-based taxonomy of
+different data-driven innovation approaches. On this basis, I recommend the
+strategies and actions for innovators, companies, R&D organizations, and
+governments to enact data-driven innovation.",2022-01-19,http://arxiv.org/pdf/2201.08184v3,Innovation
+From Cyber Security Incident Management to Cyber Security Crisis Management in the European Union,"Jukka Ruohonen, Kalle Rindell, Simone Busetti","Incident management is a classical topic in cyber security. Recently, the
+European Union (EU) has started to consider also the relation between cyber
+security incidents and cyber security crises. These considerations and
+preparations, including those specified in the EU's new cyber security laws,
+constitute the paper's topic. According to an analysis of the laws and
+associated policy documents, (i) cyber security crises are equated in the EU to
+large-scale cyber security incidents that either exceed a handling capacity of
+a single member state or affect at least two member states. For this and other
+purposes, (ii) the new laws substantially increase mandatory reporting about
+cyber security incidents, including but not limited to the large-scale
+incidents. Despite the laws and new governance bodies established by them,
+however, (iii) the working of actual cyber security crisis management remains
+unclear particularly at the EU-level. With these policy research results, the
+paper advances the domain of cyber security incident management research by
+elaborating how European law perceives cyber security crises and their relation
+to cyber security incidents, paving the way for many relevant further research
+topics with practical relevance, whether theoretical, conceptual, or empirical.",2025-04-19,http://arxiv.org/pdf/2504.14220v1,Cyber Security
+A systematic literature review on cyber threat hunting,Zichen Wang,"Since the term ""Cyber threat hunting"" was introduced in 2016, there have been
+a rising trend of proactive defensive measure to create more cyber security.
+This research will look into peer reviewed literature on the subject of cyber
+threat hunting. Our study shows an increase in the field with methods of
+machine learning.\\ Keywords: Cyber threat, Cyber security, threat hunting ,
+security system, data driven, Intel, analytic driven, TTPs",2022-12-10,http://arxiv.org/pdf/2212.05310v1,Cyber Security
+Electric power system security: the case for an integrated cyber-physical risk management framework,"Efthymios Karangelos, Louis Wehenkel","This paper concerns the security of the electric power transmission grid
+facing the threat of malicious cyber-physical attackers. We posit that there is
+no such thing as perfectly effective cyber-security. Rather, any cyber-security
+measure comes with the possibility that a highly skilled attacker could
+(eventually find a way to) bypass it. On these grounds, we formulate a
+tri-level decision making problem seeking to co-optimize preventive physical
+and cyber-security measures under uncertainty on the ability of an exogenous
+cyber-physical attacker to overcome the latter. Preventive physical security
+measures refer to the \emph{ex-ante} procurement of reserve capacity, which
+translates into ramping restrictions in real-time. Cyber-security measures
+refer to updating the firewall rules so as to impede an intruder from taking
+over the cyber infrastructure of the grid and disconnecting power generators
+and transmission branches. We adopt standard assumptions to formalize the inner
+optimization problems corresponding to the cyber-physical attacker and power
+grid operator and focus on uncertainty management at the uppermost level of the
+problem. Our findings establish that physical- and cyber-security measures are
+non-exchangeable complements in keeping the power grid operation secure.",2025-02-27,http://arxiv.org/pdf/2502.20287v1,Cyber Security
+Towards Automated Cyber Range Design: Characterizing and Matching Demands to Supplies,"Ekzhin Ear, Jose L. C. Remy, Shouhuai Xu","Cyber ranges mimic real-world cyber environments and are in high demand.
+Before building their own cyber ranges, organizations need to deeply understand
+what construction supplies are available to them. A fundamental supply is the
+cyber range architecture, which prompts an important research question: Which
+cyber range architecture is most appropriate for an organization's
+requirements? To answer this question, we propose an innovative framework to
+specify cyber range requirements, characterize cyber range architectures (based
+on our analysis of 45 cyber range architectures), and match cyber range
+architectures to cyber range requirements.",2023-07-10,http://arxiv.org/pdf/2307.04416v1,Cyber Security
+A Study Of Cyber Security Challenges And Its Emerging Trends On Latest Technologies,"G. Nikhita Reddy, G. J. Ugander Reddy","Cyber Security plays an important role in the field of information technology
+.Securing the information have become one of the biggest challenges in the
+present day. When ever we think about the cyber security the first thing that
+comes to our mind is cyber crimes which are increasing immensely day by day.
+Various Governments and companies are taking many measures in order to prevent
+these cyber crimes. Besides various measures cyber security is still a very big
+concern to many. This paper mainly focuses on challenges faced by cyber
+security on the latest technologies .It also focuses on latest about the cyber
+security techniques, ethics and the trends changing the face of cyber security.",2014-02-08,http://arxiv.org/pdf/1402.1842v1,Cyber Security
+Recommendations on Future Operational Environments Command Control and Cyber Security,Kerim Goztepe,"It is a well-known fact that today a nation's telecommunication networks,
+critical infrastructure, and information systems are vulnerable to growing
+number of attacks in cyberspace. Cyber space contains very different problems
+involving various sets of threats, targets and costs. Cyber security is not
+only problem of banking, communication or transportation. It also threatens
+core systems of army as command control. Some significant recommendations on
+command control (C2) and cyber security have been suggested for army computing
+environment in this paper. This study addresses priorities of ""what should be
+done for a better army cyber future"" to cyber security researchers.",2015-02-23,http://arxiv.org/pdf/1502.06422v1,Cyber Security
+Security evaluation of cyber networks under advanced persistent threats,"Lu-Xing Yang, Pengdeng Li, Xiaofan Yang, Luosheng Wen, Yingbo Wu, Yuan Yan Tang","This paper is devoted to measuring the security of cyber networks under
+advanced persistent threats (APTs). First, an APT-based cyber attack-defense
+process is modeled as an individual-level dynamical system. Second, the dynamic
+model is shown to exhibit the global stability. On this basis, a new security
+metric of cyber networks, which is known as the limit security, is defined as
+the limit expected fraction of compromised nodes in the networks. Next, the
+influence of different factors on the limit security is illuminated through
+theoretical analysis and computer simulation. This work helps understand the
+security of cyber networks under APTs.",2017-07-12,http://arxiv.org/pdf/1707.03611v1,Cyber Security
+Introduction of a Hybrid Monitor to Cyber-Physical Systems,"J Ceasar Aguma, Bruce McMillin, Amelia Regan","Computing and technology have vastly changed since the introduction of
+firewall technology in 1988. The internet has grown from a simple network of
+networks to a cyber and physical entity that encompasses the entire planet.
+Cyber-physical systems(CPS) now control most of the day to day operations of
+human civilization from autonomous cars to nuclear energy plants. While
+phenomenal, this growth spurt has created new security threats. These are
+threats that cannot be blocked by a firewall for they are not only cyber but
+cyber-physical. In light of these new cyber-physical threats, this text
+proposes a security measure that promises to enhance the security of
+cyber-physical systems. Using theoretical cyber, physical, and cyber-physical
+attack scenarios, this text will highlight the need for some sort of monitor in
+cyber-physical systems as an extra security measure. Additionally, this text
+will illustrate the efficiency of said monitor using a Shannon entropy proof,
+and a multiple security domain nondeducibility(MSDND) proof.",2018-05-05,http://arxiv.org/pdf/1805.01975v2,Cyber Security
+CPES-QSM: A Quantitative Method Towards the Secure Operation of Cyber-Physical Energy Systems,"Juan Ospina, Venkatesh Venkataramanan, Charalambos Konstantinou","Power systems are evolving into cyber-physical energy systems (CPES) due to
+the integration of modern communication and Internet-of-Things (IoT) devices.
+CPES security evaluation is challenging since the physical and cyber layers are
+often not considered holistically. Existing literature focuses on only
+optimizing the operation of either the physical or cyber layer while ignoring
+the interactions between them. This paper proposes a metric, the Cyber-Physical
+Energy System Quantitative Security Metric (CPES-QSM), that quantifies the
+interaction between the cyber and physical layers across three domains:
+electrical, cyber-risk, and network topology. A method for incorporating the
+proposed cyber-metric into operational decisions is also proposed by
+formulating a cyber-constrained AC optimal power flow (C-ACOPF) that considers
+the status of all the CPES layers. The cyber-constrained ACOPF considers the
+vulnerabilities of physical and cyber networks by incorporating factors such as
+voltage stability, contingencies, graph-theory, and IoT cyber risks, while
+using a multi-criteria decision-making technique. Simulation studies are
+conducted using standard IEEE test systems to evaluate the effectiveness of the
+proposed metric and the C-ACOPF formulation.",2022-06-07,http://arxiv.org/pdf/2206.03543v2,Cyber Security
+Digital Adoption and Cyber Security: An Analysis of Canadian Businesses,"Joann Jasiak, Peter MacKenzie, Purevdorj Tuvaandorj","This paper examines how Canadian firms balance the benefits of technology
+adoption against the rising risk of cyber security breaches. We merge data from
+the 2021 Canadian Survey of Digital Technology and Internet Use and the 2021
+Canadian Survey of Cyber Security and Cybercrime to investigate the trade-off
+firms face when adopting digital technologies to enhance productivity and
+efficiency, balanced against the potential increase in cyber security risk. The
+analysis explores the extent of digital technology adoption, differences across
+industries, the subsequent impacts on efficiency, and associated cyber security
+vulnerabilities. We build aggregate variables, such as the Business Digital
+Usage Score and a cyber security incidence variable to quantify each firm's
+digital engagement and cyber security risk. A survey-weight-adjusted Lasso
+estimator is employed, and a debiasing method for high-dimensional logit models
+is introduced to identify the drivers of technological efficiency and cyber
+risk. The analysis reveals a digital divide linked to firm size, industry, and
+workforce composition. While rapid expansion of tools such as cloud services or
+artificial intelligence can raise efficiency, it simultaneously heightens
+exposure to cyber threats, particularly among larger enterprises.",2025-04-16,http://arxiv.org/pdf/2504.12413v1,Cyber Security
+The Use of Agricultural Robots in Orchard Management,"Qin Zhang, Manoj Karkee, Amy Tabb","Book chapter that summarizes recent research on agricultural robotics in
+orchard management, including Robotic pruning, Robotic thinning, Robotic
+spraying, Robotic harvesting, Robotic fruit transportation, and future trends.",2019-07-30,http://arxiv.org/pdf/1907.13114v1,Robotics
+Robotics in Snow and Ice,François Pomerleau,"Definition: The terms ""robotics in snow and ice"" refers to robotic systems
+being studied, developed, and used in areas where water can be found in its
+solid state. This specialized branch of field robotics investigates the impact
+of extreme conditions related to cold environments on autonomous vehicles.",2022-08-10,http://arxiv.org/pdf/2208.05095v1,Robotics
+Robot Accident Investigation: a case study in Responsible Robotics,"Alan F. T. Winfield, Katie Winkle, Helena Webb, Ulrik Lyngs, Marina Jirotka, Carl Macrae","Robot accidents are inevitable. Although rare, they have been happening since
+assembly-line robots were first introduced in the 1960s. But a new generation
+of social robots are now becoming commonplace. Often with sophisticated
+embedded artificial intelligence (AI) social robots might be deployed as care
+robots to assist elderly or disabled people to live independently. Smart robot
+toys offer a compelling interactive play experience for children and
+increasingly capable autonomous vehicles (AVs) the promise of hands-free
+personal transport and fully autonomous taxis. Unlike industrial robots which
+are deployed in safety cages, social robots are designed to operate in human
+environments and interact closely with humans; the likelihood of robot
+accidents is therefore much greater for social robots than industrial robots.
+This paper sets out a draft framework for social robot accident investigation;
+a framework which proposes both the technology and processes that would allow
+social robot accidents to be investigated with no less rigour than we expect of
+air or rail accident investigations. The paper also places accident
+investigation within the practice of responsible robotics, and makes the case
+that social robotics without accident investigation would be no less
+irresponsible than aviation without air accident investigation.",2020-05-15,http://arxiv.org/pdf/2005.07474v1,Robotics
+Pattern Formation for Asynchronous Robots without Agreement in Chirality,"Sruti Gan Chaudhuri, Swapnil Ghike, Shrainik Jain, Krishnendu Mukhopadhyaya","This paper presents a deterministic algorithm for forming a given asymmetric
+pattern in finite time by a set of autonomous, homogeneous, oblivious mobile
+robots under the CORDA model. The robots are represented as points on the 2D
+plane. There is no explicit communication between the robots. The robots
+coordinate among themselves by observing the positions of the other robots on
+the plane. Initially all the robots are assumed to be stationary. The robots
+have local coordinate systems defined by Sense of Direction (SoD), orientation
+or chirality and scale. Initially the robots are in asymmetric configuration.
+We show that these robots can form any given asymmetric pattern in finite time.",2014-03-11,http://arxiv.org/pdf/1403.2625v1,Robotics
+Formation of General Position by Asynchronous Mobile Robots,"S. Bhagat, S. Gan Chaudhuri, K. Mukhopadhyaya","The traditional distributed model of autonomous, homogeneous, mobile point
+robots usually assumes that the robots do not create any visual obstruction for
+the other robots, i.e., the robots are see through. In this paper, we consider
+a slightly more realistic model, by incorporating the notion of obstructed
+visibility (i.e., robots are not see through) for other robots. Under the new
+model of visibility, a robot may not have the full view of its surroundings.
+Many of the existing algorithms demand that each robot should have the complete
+knowledge of the positions of other robots. Since, vision is the only mean of
+their communication, it is required that the robots are in general position
+(i.e., no three robots are collinear). We consider asynchronous robots. They
+also do not have common chirality (or any agreement on a global coordinate
+system). In this paper, we present a distributed algorithm for obtaining a
+general position for the robots in finite time from any arbitrary
+configuration. The algorithm also assures collision free motion for each robot.
+This algorithm may also be used as a preprocessing module for many other
+subsequent tasks performed by the robots.",2014-08-09,http://arxiv.org/pdf/1408.2072v1,Robotics
+A review of cuspidal serial and parallel manipulators,"Philippe Wenger, Damien Chablat","Cuspidal robots can move from one inverse or direct kinematic solution to
+another without ever passing through a singularity. These robots have remained
+unknown because almost all industrial robots do not have this feature. However,
+in fact, industrial robots are the exceptions. Some robots appeared recently in
+the industrial market can be shown to be cuspidal but, surprisingly, almost
+nobody knows it and robot users meet difficulties in planning trajectories with
+these robots. This paper proposes a review on the fundamental and application
+aspects of cuspidal robots. It addresses the important issues raised by these
+robots for the design and planning of trajectories. The identification of all
+cuspidal robots is still an open issue. This paper recalls in details the case
+of serial robots with three joints but it also addresses robots with more
+complex architectures such as 6-revolute-jointed robot and parallel robots. We
+hope that this paper will help disseminate more widely knowledge on cuspidal
+robots.",2022-10-11,http://arxiv.org/pdf/2210.05204v1,Robotics
+Optimal Dispersion of Silent Robots in a Ring,"Bibhuti Das, Barun Gorain, Kaushik Mondal, Krishnendu Mukhopadhyaya, Supantha Pandit","Given a set of co-located mobile robots in an unknown anonymous graph, the
+robots must relocate themselves in distinct graph nodes to solve the dispersion
+problem. In this paper, we consider the dispersion problem for silent robots
+\cite{gorain2024collaborative}, i.e., no direct, explicit communication between
+any two robots placed in the nodes of an oriented $n$ node ring network. The
+robots operate in synchronous rounds. The dispersion problem for silent mobile
+robots has been studied in arbitrary graphs where the robots start from a
+single source. In this paper, we focus on the dispersion problem for silent
+mobile robots where robots can start from multiple sources. The robots have
+unique labels from a range $[0,\;L]$ for some positive integer $L$. Any two
+co-located robots do not have the information about the label of the other
+robot. The robots have weak multiplicity detection capability, which means they
+can determine if it is alone on a node. The robots are assumed to be able to
+identify an increase or decrease in the number of robots present on a node in a
+particular round. However, the robots can not get the exact number of increase
+or decrease in the number of robots. We have proposed a deterministic
+distributed algorithm that solves the dispersion of $k$ robots in an oriented
+ring in $O(\log L+k)$ synchronous rounds with $O(\log L)$ bits of memory for
+each robot. A lower bound $\Omega(\log L+k)$ on time for the dispersion of $k$
+robots on a ring network is presented to establish the optimality of the
+proposed algorithm.",2024-08-10,http://arxiv.org/pdf/2408.05491v1,Robotics
+Artificial Intelligence and Systems Theory: Applied to Cooperative Robots,"Pedro U. Lima, Luis M. M. Custodio","This paper describes an approach to the design of a population of cooperative
+robots based on concepts borrowed from Systems Theory and Artificial
+Intelligence. The research has been developed under the SocRob project, carried
+out by the Intelligent Systems Laboratory at the Institute for Systems and
+Robotics - Instituto Superior Tecnico (ISR/IST) in Lisbon. The acronym of the
+project stands both for ""Society of Robots"" and ""Soccer Robots"", the case study
+where we are testing our population of robots. Designing soccer robots is a
+very challenging problem, where the robots must act not only to shoot a ball
+towards the goal, but also to detect and avoid static (walls, stopped robots)
+and dynamic (moving robots) obstacles. Furthermore, they must cooperate to
+defeat an opposing team. Our past and current research in soccer robotics
+includes cooperative sensor fusion for world modeling, object recognition and
+tracking, robot navigation, multi-robot distributed task planning and
+coordination, including cooperative reinforcement learning in cooperative and
+adversarial environments, and behavior-based architectures for real time task
+execution of cooperating robot teams.",2004-11-08,http://arxiv.org/pdf/cs/0411018v1,Robotics
+"Medical robotics: where we come from, where we are and where we could go",Jocelyne Troccaz,This short note presents a viewpoint about medical robotics.,2008-08-12,http://arxiv.org/pdf/0808.1661v1,Robotics
+Game-Theoretic Modeling of Human Adaptation in Human-Robot Collaboration,"Stefanos Nikolaidis, Swaprava Nath, Ariel D. Procaccia, Siddhartha Srinivasa","In human-robot teams, humans often start with an inaccurate model of the
+robot capabilities. As they interact with the robot, they infer the robot's
+capabilities and partially adapt to the robot, i.e., they might change their
+actions based on the observed outcomes and the robot's actions, without
+replicating the robot's policy. We present a game-theoretic model of human
+partial adaptation to the robot, where the human responds to the robot's
+actions by maximizing a reward function that changes stochastically over time,
+capturing the evolution of their expectations of the robot's capabilities. The
+robot can then use this model to decide optimally between taking actions that
+reveal its capabilities to the human and taking the best action given the
+information that the human currently has. We prove that under certain
+observability assumptions, the optimal policy can be computed efficiently. We
+demonstrate through a human subject experiment that the proposed model
+significantly improves human-robot team performance, compared to policies that
+assume complete adaptation of the human to the robot.",2017-01-26,http://arxiv.org/pdf/1701.07790v2,Robotics
+Vulnerability of Finitely-long Blockchains in Securing Data,"Yiming Jiang, Jiangfan Zhang","Recently, blockchain has been applied in various fields to secure data
+exchanges and storage in decentralized systems. In a blockchain application
+where the task of the application which makes use of the data stored in a
+blockchain has to be accomplished by a time instant, the employed blockchain is
+essentially finitely-long. In this paper, we consider a general finitely-long
+blockchain model which is generalized from most existing works on finitely-long
+blockchain applications, and take the first step towards characterizing the
+vulnerability of finitely-long blockchains in securing data against
+double-spending attacks. For the first time, we develop a general closed-form
+expression for the probability of success in launching a double-spending attack
+on a finitely-long blockchain. This probability essentially characterizes the
+vulnerability of finitely-long blockchains. Then, we prove that the probability
+of success in launching a double-spending attack on a finitely-long blockchain
+is no greater than that on an infinitely-long blockchain, which implies that
+finitely-long blockchains are less vulnerable to double-spending attacks than
+infinitely-long blockchains. Moreover, we show that unlike infinitely-long
+blockchains which can be surely paralyzed by a 51% attack, finitely-long
+blockchains are more resistant to 51% attacks.",2023-04-19,http://arxiv.org/pdf/2304.09965v1,Blockchain
+A Framework for Blockchain Interoperability and Runtime Selection,"Philipp Frauenthaler, Michael Borkowski, Stefan Schulte","The suitability of a particular blockchain for a given use case depends
+mainly on the blockchain's functional and non-functional properties. Such
+properties may vary over time, and thus, a selected blockchain may become
+unsuitable for a given use case. This uncertainty may hinder the widespread
+adoption of blockchain technologies in general. To mitigate the impact of
+volatile blockchain properties, we propose a framework that monitors several
+blockchains, allows the user to define functional and non-functional
+requirements, determines the most appropriate blockchain, and enables the
+switchover to that chain at runtime. Our evaluation using a reference
+implementation shows that switching to another blockchain can save cost and
+enable users to benefit from better performance and a higher level of trust.",2019-05-15,http://arxiv.org/pdf/1905.07014v1,Blockchain
+Testimonium: A Cost-Efficient Blockchain Relay,"Philipp Frauenthaler, Marten Sigwart, Christof Spanring, Stefan Schulte","Current blockchain technologies provide very limited means of
+interoperability. In particular, solutions enabling blockchains to verify the
+existence of data on other blockchains are either very costly or are not fully
+decentralized. To overcome these limitations, we introduce Testimonium, a novel
+blockchain relay scheme that applies a validation-on-demand pattern and the
+on-chain execution of Simplified Payment Verifications to enable the
+verification of data across blockchains while remaining fully decentralized.
+Evaluating the scheme for Ethereum-based blockchains shows that Testimonium
+achieves a cost reduction of up to 92% over existing solutions. As such, the
+scheme lays a strong foundation for generic blockchain interoperability. For
+instance, it enables the development of an atomic-commit protocol for
+distributed transactions across blockchains.",2020-02-26,http://arxiv.org/pdf/2002.12837v1,Blockchain
+"Blockchain Technologies for Smart Energy Systems: Fundamentals, Challenges and Solutions","Naveed UL Hassan, Chau Yuen, Dusit Niyato","In this paper, we discuss the integration of blockchain in smart energy
+systems. We present various blockchain technology solutions, review important
+blockchain platforms, and several blockchain based smart energy projects in
+different smart energy domains. The majority of blockchain platforms with
+embedded combination of blockchain technology solutions are computing- and
+resource- intensive, and hence not entirely suitable for smart energy
+applications. We consider the requirements of smart energy systems and
+accordingly identify appropriate blockchain technology solutions for smart
+energy applications. Our analysis can help in the development of flexible
+blockchain platforms for smart energy systems.",2019-09-06,http://arxiv.org/pdf/1909.02914v1,Blockchain
+Selecting Reliable Blockchain Peers via Hybrid Blockchain Reliability Prediction,"Peilin Zheng, Zibin Zheng, Liang Chen","Blockchain and blockchain-based decentralized applications are attracting
+increasing attentions recently. In public blockchain systems, users usually
+connect to third-party peers or run a peer to join the P2P blockchain network.
+However, connecting to unreliable blockchain peers will make users waste
+resources and even lose millions of dollars of cryptocurrencies. In order to
+select the reliable blockchain peers, it is urgently needed to evaluate and
+predict the reliability of them. Faced with this problem, we propose H-BRP,
+Hybrid Blockchain Reliability Prediction model to extract the blockchain
+reliability factors then make personalized prediction for each user.
+Large-scale real-world experiments are conducted on 100 blockchain requesters
+and 200 blockchain peers. The implement and dataset of 2,000,000 test cases are
+released. The experimental results show that the proposed model obtains better
+accuracy than other approaches.",2019-10-31,http://arxiv.org/pdf/1910.14614v1,Blockchain
+Managing Blockchain Systems and Applications: A Process Model for Blockchain Configurations,"Olga Labazova, Erol Kazan, Tobias Dehling, Tuure Tuunanen, Ali Sunyaev","Blockchain is a radical innovation with a unique value proposition that
+shifts trust from institutions to algorithms. Still, the potential of
+blockchains remains elusive due to knowledge gaps between computer science
+research and socio-economic research. Building on information technology
+governance literature and the theory of coevolution, this study develops a
+process model for blockchain configurations that captures blockchain capability
+dimensions and application areas. We demonstrate the applicability of the
+proposed blockchain configuration process model on four blockchain projects.
+The proposed blockchain configuration process model assists with the selection
+and configuration of blockchain systems based on a set of known requirements
+for a blockchain project. Our findings contribute to research by bridging
+knowledge gaps between computer science and socio-economic research on
+blockchain. Specifically, we explore existing blockchain concepts and integrate
+them in a process model for blockchain configurations.",2021-04-16,http://arxiv.org/pdf/2105.02118v1,Blockchain
+A Logic of Blockchain Updates,"Kai Brünnler, Dandolo Flumini, Thomas Studer","Blockchains are distributed data structures that are used to achieve
+consensus in systems for cryptocurrencies (like Bitcoin) or smart contracts
+(like Ethereum). Although blockchains gained a lot of popularity recently,
+there is no logic-based model for blockchains available. We introduce BCL, a
+dynamic logic to reason about blockchain updates, and show that BCL is sound
+and complete with respect to a simple blockchain model.",2017-07-06,http://arxiv.org/pdf/1707.01766v1,Blockchain
+A Framework for Blockchain-Based Applications,Ephraim Feig,"Blockchains have recently generated explosive interest from both academia and
+industry, with many proposed applications. But descriptions of many these
+proposals are more visionary projections than realizable proposals, and even
+basic definitions are often missing. We define ""blockchain"" and ""blockchain
+network"", and then discuss two very different, well known classes of blockchain
+networks: cryptocurrencies and Git repositories. We identify common primitive
+elements of both and use them to construct a framework for explicitly
+articulating what characterizes blockchain networks. The framework consists of
+a set of questions that every blockchain initiative should address at the very
+outset. It is intended to help one decide whether or not blockchain is an
+appropriate approach to a particular application, and if it is, to assist in
+its initial design stage.",2018-03-02,http://arxiv.org/pdf/1803.00892v1,Blockchain
+Scalable Multi-Chain Coordination via the Hierarchical Longest Chain Rule,"Yanni Georghiades, Karl Kreder, Jonathan Downing, Alan Orwick, Sriram Vishwanath","This paper introduces BlockReduce, a Proof-of-Work (PoW) based blockchain
+system which achieves high transaction throughput through a hierarchy of merged
+mined blockchains, each operating in parallel on a partition the overall
+application state. Most notably, the full PoW available within the network is
+applied to all blockchains in BlockReduce, and cross-blockchain state
+transitions are enabled seamlessly within the core protocol. This paper shows
+that, given a hierarchy of blockchains and its associated security model, the
+protocol scales superlinearly in transaction throughput with the number of
+blockchains operated by the protocol.",2021-12-21,http://arxiv.org/pdf/2112.11072v2,Blockchain
+A Decision Framework for Blockchain Adoption,"Vittorio Capocasale, Guido Perboli","Blockchain and distributed ledger technologies are gaining the interest of
+the academy, companies, and institutions. Nonetheless, the path toward
+blockchain adoption is not straightforward, as blockchain is a complex
+technology that requires revisiting the standard way of addressing problems and
+tackling them from a decentralized perspective. Thus, decision-makers adopt
+blockchain technology for the wrong reasons or prefer it to more suitable ones.
+This work presents a decision framework for blockchain adoption to help
+decision-makers decide whether blockchain is applicable, valuable, and
+preferable to other technologies. In particular, The decision framework is
+composed of a small set of questions that can be answered from a managerial
+standpoint and that do not require a deep technical knowledge of
+blockchain-related topics.",2022-10-24,http://arxiv.org/pdf/2210.14888v1,Blockchain
+The Rise of Quantum Internet Computing,Seng W. Loke,"This article highlights quantum Internet computing as referring to
+distributed quantum computing over the quantum Internet, analogous to
+(classical) Internet computing involving (classical) distributed computing over
+the (classical) Internet. Relevant to quantum Internet computing would be areas
+of study such as quantum protocols for distributed nodes using quantum
+information for computations, quantum cloud computing, delegated verifiable
+blind or private computing, non-local gates, and distributed quantum
+applications, over Internet-scale distances.",2022-08-01,http://arxiv.org/pdf/2208.00733v1,Quantum Computing
+Unconventional Quantum Computing Devices,Seth Lloyd,"This paper investigates a variety of unconventional quantum computation
+devices, including fermionic quantum computers and computers that exploit
+nonlinear quantum mechanics. It is shown that unconventional quantum computing
+devices can in principle compute some quantities more rapidly than
+`conventional' quantum computers.",2000-03-31,http://arxiv.org/pdf/quant-ph/0003151v1,Quantum Computing
+Geometrical perspective on quantum states and quantum computation,Zeqian Chen,"We interpret quantum computing as a geometric evolution process by
+reformulating finite quantum systems via Connes' noncommutative geometry. In
+this formulation, quantum states are represented as noncommutative connections,
+while gauge transformations on the connections play a role of unitary quantum
+operations. Thereby, a geometrical model for quantum computation is presented,
+which is equivalent to the quantum circuit model. This result shows a geometric
+way of realizing quantum computing and as such, provides an alternative
+proposal of building a quantum computer.",2013-11-20,http://arxiv.org/pdf/1311.4939v1,Quantum Computing
+Quantum Computation and Quantum Information,Yazhen Wang,"Quantum computation and quantum information are of great current interest in
+computer science, mathematics, physical sciences and engineering. They will
+likely lead to a new wave of technological innovations in communication,
+computation and cryptography. As the theory of quantum physics is fundamentally
+stochastic, randomness and uncertainty are deeply rooted in quantum
+computation, quantum simulation and quantum information. Consequently quantum
+algorithms are random in nature, and quantum simulation utilizes Monte Carlo
+techniques extensively. Thus statistics can play an important role in quantum
+computation and quantum simulation, which in turn offer great potential to
+revolutionize computational statistics. While only pseudo-random numbers can be
+generated by classical computers, quantum computers are able to produce genuine
+random numbers; quantum computers can exponentially or quadratically speed up
+median evaluation, Monte Carlo integration and Markov chain simulation. This
+paper gives a brief review on quantum computation, quantum simulation and
+quantum information. We introduce the basic concepts of quantum computation and
+quantum simulation and present quantum algorithms that are known to be much
+faster than the available classic algorithms. We provide a statistical
+framework for the analysis of quantum algorithms and quantum simulation.",2012-10-02,http://arxiv.org/pdf/1210.0736v1,Quantum Computing
+Probabilistic Process Algebra to Unifying Quantum and Classical Computing in Closed Systems,Yong Wang,"We have unified quantum and classical computing in open quantum systems
+called qACP which is a quantum generalization of process algebra ACP. But, an
+axiomatization for quantum and classical processes with an assumption of closed
+quantum systems is still missing. For closed quantum systems, unitary operator,
+quantum measurement and quantum entanglement are three basic components for
+quantum computing. This leads to probability unavoidable. Along the solution of
+qACP to unify quantum and classical computing in open quantum systems, we unify
+quantum and classical computing with an assumption of closed systems under the
+framework of ACP-like probabilistic process algebra. This unification make it
+can be used widely in verification for quantum and classical computing mixed
+systems, such as most quantum communication protocols.",2016-10-08,http://arxiv.org/pdf/1610.02500v1,Quantum Computing
+Google Quantum AI's Quest for Error-Corrected Quantum Computers,M. AbuGhanem,"Quantum computers stand at the forefront of technological innovation,
+offering exponential computational speed-ups that challenge classical computing
+capabilities. At the cutting edge of this transformation is Google Quantum AI,
+a leader in driving forward the development of practical quantum computers.
+This article provides a comprehensive review of Google Quantum AI's pivotal
+role in the quantum computing landscape over the past decade, emphasizing their
+significant strides towards achieving quantum computational supremacy. By
+exploring their advancements and contributions in quantum hardware, quantum
+software, error correction, and quantum algorithms, this study highlights the
+transformative impact of Google Quantum AI's initiatives in shaping the future
+of quantum computing technology.",2024-09-23,http://arxiv.org/pdf/2410.00917v1,Quantum Computing
+Optimal Stochastic Resource Allocation for Distributed Quantum Computing,"Napat Ngoenriang, Minrui Xu, Sucha Supittayapornpong, Dusit Niyato, Han Yu, Xuemin, Shen","With the advent of interconnected quantum computers, i.e., distributed
+quantum computing (DQC), multiple quantum computers can now collaborate via
+quantum networks to perform massively complex computational tasks. However, DQC
+faces problems sharing quantum information because it cannot be cloned or
+duplicated between quantum computers. Thanks to advanced quantum mechanics,
+quantum computers can teleport quantum information across quantum networks.
+However, challenges to utilizing efficiently quantum resources, e.g., quantum
+computers and quantum channels, arise in DQC due to their capabilities and
+properties, such as uncertain qubit fidelity and quantum channel noise. In this
+paper, we propose a resource allocation scheme for DQC based on stochastic
+programming to minimize the total deployment cost for quantum resources.
+Essentially, the two-stage stochastic programming model is formulated to handle
+the uncertainty of quantum computing demands, computing power, and fidelity in
+quantum networks. The performance evaluation demonstrates the effectiveness and
+ability of the proposed scheme to balance the utilization of quantum computers
+and on-demand quantum computers while minimizing the overall cost of
+provisioning under uncertainty.",2022-09-16,http://arxiv.org/pdf/2210.02886v1,Quantum Computing
+Quantum Computational Complexity,John Watrous,"This article surveys quantum computational complexity, with a focus on three
+fundamental notions: polynomial-time quantum computations, the efficient
+verification of quantum proofs, and quantum interactive proof systems.
+Properties of quantum complexity classes based on these notions, such as BQP,
+QMA, and QIP, are presented. Other topics in quantum complexity, including
+quantum advice, space-bounded quantum computation, and bounded-depth quantum
+circuits, are also discussed.",2008-04-21,http://arxiv.org/pdf/0804.3401v1,Quantum Computing
+Quantum Computers and Quantum Computer Languages: Quantum Assembly Language and Quantum C Language,Stephen Blaha,"We show a representation of Quantum Computers defines Quantum Turing Machines
+with associated Quantum Grammars. We then create examples of Quantum Grammars.
+Lastly we develop an algebraic approach to high level Quantum Languages using
+Quantum Assembly language and Quantum C language as examples.",2002-01-18,http://arxiv.org/pdf/quant-ph/0201082v1,Quantum Computing
+"IBM Quantum Computers: Evolution, Performance, and Future Directions",M. AbuGhanem,"Quantum computers represent a transformative frontier in computational
+technology, promising exponential speedups beyond classical computing limits.
+IBM Quantum has led significant advancements in both hardware and software,
+providing access to quantum hardware via IBM Cloud since 2016, achieving a
+milestone with the world's first accessible quantum computer. This article
+explores IBM's quantum computing journey, focusing on the development of
+practical quantum computers. We summarize the evolution and advancements of IBM
+Quantum's processors across generations, including their recent breakthrough
+surpassing the 1,000-qubit barrier. The paper reviews detailed performance
+metrics across various hardware, tracing their evolution over time and
+highlighting IBM Quantum's transition from the noisy intermediate-scale quantum
+(NISQ) computing era towards fault-tolerant quantum computing capabilities.",2024-09-17,http://arxiv.org/pdf/2410.00916v1,Quantum Computing
+Behind the Deepfake: 8% Create; 90% Concerned. Surveying public exposure to and perceptions of deepfakes in the UK,"Tvesha Sippy, Florence Enock, Jonathan Bright, Helen Z. Margetts","This article examines public exposure to and perceptions of deepfakes based
+on insights from a nationally representative survey of 1403 UK adults. The
+survey is one of the first of its kind since recent improvements in deepfake
+technology and widespread adoption of political deepfakes. The findings reveal
+three key insights. First, on average, 15% of people report exposure to harmful
+deepfakes, including deepfake pornography, deepfake frauds/scams and other
+potentially harmful deepfakes such as those that spread health/religious
+misinformation/propaganda. In terms of common targets, exposure to deepfakes
+featuring celebrities was 50.2%, whereas those featuring politicians was 34.1%.
+And 5.7% of respondents recall exposure to a selection of high profile
+political deepfakes in the UK. Second, while exposure to harmful deepfakes was
+relatively low, awareness of and fears about deepfakes were high (and women
+were significantly more likely to report experiencing such fears than men). As
+with fears, general concerns about the spread of deepfakes were also high;
+90.4% of the respondents were either very concerned or somewhat concerned about
+this issue. Most respondents (at least 91.8%) were concerned that deepfakes
+could add to online child sexual abuse material, increase distrust in
+information and manipulate public opinion. Third, while awareness about
+deepfakes was high, usage of deepfake tools was relatively low (8%). Most
+respondents were not confident about their detection abilities and were
+trustful of audiovisual content online. Our work highlights how the problem of
+deepfakes has become embedded in public consciousness in just a few years; it
+also highlights the need for media literacy programmes and other policy
+interventions to address the spread of harmful deepfakes.",2024-07-08,http://arxiv.org/pdf/2407.05529v1,deepfakes
+WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection,"Bojia Zi, Minghao Chang, Jingjing Chen, Xingjun Ma, Yu-Gang Jiang","In recent years, the abuse of a face swap technique called deepfake has
+raised enormous public concerns. So far, a large number of deepfake videos
+(known as ""deepfakes"") have been crafted and uploaded to the internet, calling
+for effective countermeasures. One promising countermeasure against deepfakes
+is deepfake detection. Several deepfake datasets have been released to support
+the training and testing of deepfake detectors, such as DeepfakeDetection and
+FaceForensics++. While this has greatly advanced deepfake detection, most of
+the real videos in these datasets are filmed with a few volunteer actors in
+limited scenes, and the fake videos are crafted by researchers using a few
+popular deepfake softwares. Detectors developed on these datasets may become
+less effective against real-world deepfakes on the internet. To better support
+detection against real-world deepfakes, in this paper, we introduce a new
+dataset WildDeepfake which consists of 7,314 face sequences extracted from 707
+deepfake videos collected completely from the internet. WildDeepfake is a small
+dataset that can be used, in addition to existing datasets, to develop and test
+the effectiveness of deepfake detectors against real-world deepfakes. We
+conduct a systematic evaluation of a set of baseline detection networks on both
+existing and our WildDeepfake datasets, and show that WildDeepfake is indeed a
+more challenging dataset, where the detection performance can decrease
+drastically. We also propose two (eg. 2D and 3D) Attention-based Deepfake
+Detection Networks (ADDNets) to leverage the attention masks on real/fake faces
+for improved detection. We empirically verify the effectiveness of ADDNets on
+both existing datasets and WildDeepfake. The dataset is available at:
+https://github.com/OpenTAI/wild-deepfake.",2021-01-05,http://arxiv.org/pdf/2101.01456v2,deepfakes
+Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection,"Yabin Wang, Zhiwu Huang, Zhiheng Ma, Xiaopeng Hong","The emergence of text-to-image generative models has revolutionized the field
+of deepfakes, enabling the creation of realistic and convincing visual content
+directly from textual descriptions. However, this advancement presents
+considerably greater challenges in detecting the authenticity of such content.
+Existing deepfake detection datasets and methods often fall short in
+effectively capturing the extensive range of emerging deepfakes and offering
+satisfactory explanatory information for detection. To address the significant
+issue, this paper introduces a deepfake database (DFLIP-3K) for the development
+of convincing and explainable deepfake detection. It encompasses about 300K
+diverse deepfake samples from approximately 3K generative models, which boasts
+the largest number of deepfake models in the literature. Moreover, it collects
+around 190K linguistic footprints of these deepfakes. The two distinguished
+features enable DFLIP-3K to develop a benchmark that promotes progress in
+linguistic profiling of deepfakes, which includes three sub-tasks namely
+deepfake detection, model identification, and prompt prediction. The deepfake
+model and prompt are two essential components of each deepfake, and thus
+dissecting them linguistically allows for an invaluable exploration of
+trustworthy and interpretable evidence in deepfake detection, which we believe
+is the key for the next-generation deepfake detection. Furthermore, DFLIP-3K is
+envisioned as an open database that fosters transparency and encourages
+collaborative efforts to further enhance its growth. Our extensive experiments
+on the developed benchmark verify that our DFLIP-3K database is capable of
+serving as a standardized resource for evaluating and comparing
+linguistic-based deepfake detection, identification, and prompt prediction
+techniques.",2024-01-04,http://arxiv.org/pdf/2401.02335v1,deepfakes
+Deepfake-Eval-2024: A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024,"Nuria Alina Chandra, Ryan Murtfeldt, Lin Qiu, Arnab Karmakar, Hannah Lee, Emmanuel Tanumihardja, Kevin Farhat, Ben Caffee, Sejin Paik, Changyeon Lee, Jongwook Choi, Aerin Kim, Oren Etzioni","In the age of increasingly realistic generative AI, robust deepfake detection
+is essential for mitigating fraud and disinformation. While many deepfake
+detectors report high accuracy on academic datasets, we show that these
+academic benchmarks are out of date and not representative of real-world
+deepfakes. We introduce Deepfake-Eval-2024, a new deepfake detection benchmark
+consisting of in-the-wild deepfakes collected from social media and deepfake
+detection platform users in 2024. Deepfake-Eval-2024 consists of 45 hours of
+videos, 56.5 hours of audio, and 1,975 images, encompassing the latest
+manipulation technologies. The benchmark contains diverse media content from 88
+different websites in 52 different languages. We find that the performance of
+open-source state-of-the-art deepfake detection models drops precipitously when
+evaluated on Deepfake-Eval-2024, with AUC decreasing by 50% for video, 48% for
+audio, and 45% for image models compared to previous benchmarks. We also
+evaluate commercial deepfake detection models and models finetuned on
+Deepfake-Eval-2024, and find that they have superior performance to
+off-the-shelf open-source models, but do not yet reach the accuracy of deepfake
+forensic analysts. The dataset is available at
+https://github.com/nuriachandra/Deepfake-Eval-2024.",2025-03-04,http://arxiv.org/pdf/2503.02857v4,deepfakes
+DeePhy: On Deepfake Phylogeny,"Kartik Narayan, Harsh Agarwal, Kartik Thakral, Surbhi Mittal, Mayank Vatsa, Richa Singh","Deepfake refers to tailored and synthetically generated videos which are now
+prevalent and spreading on a large scale, threatening the trustworthiness of
+the information available online. While existing datasets contain different
+kinds of deepfakes which vary in their generation technique, they do not
+consider progression of deepfakes in a ""phylogenetic"" manner. It is possible
+that an existing deepfake face is swapped with another face. This process of
+face swapping can be performed multiple times and the resultant deepfake can be
+evolved to confuse the deepfake detection algorithms. Further, many databases
+do not provide the employed generative model as target labels. Model
+attribution helps in enhancing the explainability of the detection results by
+providing information on the generative model employed. In order to enable the
+research community to address these questions, this paper proposes DeePhy, a
+novel Deepfake Phylogeny dataset which consists of 5040 deepfake videos
+generated using three different generation techniques. There are 840 videos of
+one-time swapped deepfakes, 2520 videos of two-times swapped deepfakes and 1680
+videos of three-times swapped deepfakes. With over 30 GBs in size, the database
+is prepared in over 1100 hours using 18 GPUs of 1,352 GB cumulative memory. We
+also present the benchmark on DeePhy dataset using six deepfake detection
+algorithms. The results highlight the need to evolve the research of model
+attribution of deepfakes and generalize the process over a variety of deepfake
+generation techniques. The database is available at:
+http://iab-rubric.org/deephy-database",2022-09-19,http://arxiv.org/pdf/2209.09111v1,deepfakes
+Robust Sequential DeepFake Detection,"Rui Shao, Tianxing Wu, Ziwei Liu","Since photorealistic faces can be readily generated by facial manipulation
+technologies nowadays, potential malicious abuse of these technologies has
+drawn great concerns. Numerous deepfake detection methods are thus proposed.
+However, existing methods only focus on detecting one-step facial manipulation.
+As the emergence of easy-accessible facial editing applications, people can
+easily manipulate facial components using multi-step operations in a sequential
+manner. This new threat requires us to detect a sequence of facial
+manipulations, which is vital for both detecting deepfake media and recovering
+original faces afterwards. Motivated by this observation, we emphasize the need
+and propose a novel research problem called Detecting Sequential DeepFake
+Manipulation (Seq-DeepFake). Unlike the existing deepfake detection task only
+demanding a binary label prediction, detecting Seq-DeepFake manipulation
+requires correctly predicting a sequential vector of facial manipulation
+operations. To support a large-scale investigation, we construct the first
+Seq-DeepFake dataset, where face images are manipulated sequentially with
+corresponding annotations of sequential facial manipulation vectors. Based on
+this new dataset, we cast detecting Seq-DeepFake manipulation as a specific
+image-to-sequence task and propose a concise yet effective Seq-DeepFake
+Transformer (SeqFakeFormer). To better reflect real-world deepfake data
+distributions, we further apply various perturbations on the original
+Seq-DeepFake dataset and construct the more challenging Sequential DeepFake
+dataset with perturbations (Seq-DeepFake-P). To exploit deeper correlation
+between images and sequences when facing Seq-DeepFake-P, a dedicated
+Seq-DeepFake Transformer with Image-Sequence Reasoning (SeqFakeFormer++) is
+devised, which builds stronger correspondence between image-sequence pairs for
+more robust Seq-DeepFake detection.",2023-09-26,http://arxiv.org/pdf/2309.14991v2,deepfakes
+Are Deepfakes Concerning? Analyzing Conversations of Deepfakes on Reddit and Exploring Societal Implications,"Dilrukshi Gamage, Piyush Ghasiya, Vamshi Krishna Bonagiri, Mark E Whiting, Kazutoshi Sasahara","Deepfakes are synthetic content generated using advanced deep learning and AI
+technologies. The advancement of technology has created opportunities for
+anyone to create and share deepfakes much easier. This may lead to societal
+concerns based on how communities engage with it. However, there is limited
+research available to understand how communities perceive deepfakes. We
+examined deepfake conversations on Reddit from 2018 to 2021 -- including major
+topics and their temporal changes as well as implications of these
+conversations. Using a mixed-method approach -- topic modeling and qualitative
+coding, we found 6,638 posts and 86,425 comments discussing concerns of the
+believable nature of deepfakes and how platforms moderate them. We also found
+Reddit conversations to be pro-deepfake and building a community that supports
+creating and sharing deepfake artifacts and building a marketplace regardless
+of the consequences. Possible implications derived from qualitative codes
+indicate that deepfake conversations raise societal concerns. We propose that
+there are implications for Human Computer Interaction (HCI) to mitigate the
+harm created from deepfakes.",2022-03-14,http://arxiv.org/pdf/2203.15044v1,deepfakes
+Combatting deepfakes: Policies to address national security threats and rights violations,"Andrea Miotti, Akash Wasil","This paper provides policy recommendations to address threats from deepfakes.
+First, we provide background information about deepfakes and review the harms
+they pose. We describe how deepfakes are currently used to proliferate sexual
+abuse material, commit fraud, manipulate voter behavior, and pose threats to
+national security. Second, we review previous legislative proposals designed to
+address deepfakes. Third, we present a comprehensive policy proposal that
+focuses on addressing multiple parts of the deepfake supply chain. The deepfake
+supply chain begins with a small number of model developers, model providers,
+and compute providers, and it expands to include billions of potential deepfake
+creators. We describe this supply chain in greater detail and describe how
+entities at each step of the supply chain ought to take reasonable measures to
+prevent the creation and proliferation of deepfakes. Finally, we address
+potential counterpoints of our proposal. Overall, deepfakes will present
+increasingly severe threats to global security and individual liberties. To
+address these threats, we call on policymakers to enact legislation that
+addresses multiple parts of the deepfake supply chain.",2024-02-14,http://arxiv.org/pdf/2402.09581v2,deepfakes
+GBDF: Gender Balanced DeepFake Dataset Towards Fair DeepFake Detection,"Aakash Varma Nadimpalli, Ajita Rattani","Facial forgery by deepfakes has raised severe societal concerns. Several
+solutions have been proposed by the vision community to effectively combat the
+misinformation on the internet via automated deepfake detection systems. Recent
+studies have demonstrated that facial analysis-based deep learning models can
+discriminate based on protected attributes. For the commercial adoption and
+massive roll-out of the deepfake detection technology, it is vital to evaluate
+and understand the fairness (the absence of any prejudice or favoritism) of
+deepfake detectors across demographic variations such as gender and race. As
+the performance differential of deepfake detectors between demographic
+subgroups would impact millions of people of the deprived sub-group. This paper
+aims to evaluate the fairness of the deepfake detectors across males and
+females. However, existing deepfake datasets are not annotated with demographic
+labels to facilitate fairness analysis. To this aim, we manually annotated
+existing popular deepfake datasets with gender labels and evaluated the
+performance differential of current deepfake detectors across gender. Our
+analysis on the gender-labeled version of the datasets suggests (a) current
+deepfake datasets have skewed distribution across gender, and (b) commonly
+adopted deepfake detectors obtain unequal performance across gender with mostly
+males outperforming females. Finally, we contributed a gender-balanced and
+annotated deepfake dataset, GBDF, to mitigate the performance differential and
+to promote research and development towards fairness-aware deep fake detectors.
+The GBDF dataset is publicly available at: https://github.com/aakash4305/GBDF",2022-07-21,http://arxiv.org/pdf/2207.10246v1,deepfakes
+DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection,"Rui Shao, Tianxing Wu, Liqiang Nie, Ziwei Liu","Existing deepfake detection methods fail to generalize well to unseen or
+degraded samples, which can be attributed to the over-fitting of low-level
+forgery patterns. Here we argue that high-level semantics are also
+indispensable recipes for generalizable forgery detection. Recently, large
+pre-trained Vision Transformers (ViTs) have shown promising generalization
+capability. In this paper, we propose the first parameter-efficient tuning
+approach for deepfake detection, namely DeepFake-Adapter, to effectively and
+efficiently adapt the generalizable high-level semantics from large pre-trained
+ViTs to aid deepfake detection. Given large pre-trained models but limited
+deepfake data, DeepFake-Adapter introduces lightweight yet dedicated dual-level
+adapter modules to a ViT while keeping the model backbone frozen. Specifically,
+to guide the adaptation process to be aware of both global and local forgery
+cues of deepfake data, 1) we not only insert Globally-aware Bottleneck Adapters
+in parallel to MLP layers of ViT, 2) but also actively cross-attend
+Locally-aware Spatial Adapters with features from ViT. Unlike existing deepfake
+detection methods merely focusing on low-level forgery patterns, the forgery
+detection process of our model can be regularized by generalizable high-level
+semantics from a pre-trained ViT and adapted by global and local low-level
+forgeries of deepfake data. Extensive experiments on several standard deepfake
+detection benchmarks validate the effectiveness of our approach. Notably,
+DeepFake-Adapter demonstrates a convincing advantage under cross-dataset and
+cross-manipulation settings. The code has been released at
+https://github.com/rshaojimmy/DeepFake-Adapter.",2023-06-01,http://arxiv.org/pdf/2306.00863v2,deepfakes
